@@ -4043,10 +4043,10 @@
     <usage name="Village"/>
   </type>
   <type name="Candycane_Green">
-    <nominal>3</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>1800</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>100</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
@@ -4057,7 +4057,7 @@
     <usage name="SeasonalEvent"/>
   </type>
   <type name="Candycane_Red">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>1800</restock>
     <min>1</min>
@@ -4071,10 +4071,10 @@
     <usage name="SeasonalEvent"/>
   </type>
   <type name="Candycane_RedGreen">
-    <nominal>3</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>1800</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>100</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
@@ -4085,10 +4085,10 @@
     <usage name="SeasonalEvent"/>
   </type>
   <type name="Candycane_Yellow">
-    <nominal>4</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>1800</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>100</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
