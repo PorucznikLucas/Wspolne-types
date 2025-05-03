@@ -13727,7 +13727,7 @@
     <usage name="Industrial"/>
   </type>
   <type name="NorseHelm">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>1800</restock>
     <min>0</min>
