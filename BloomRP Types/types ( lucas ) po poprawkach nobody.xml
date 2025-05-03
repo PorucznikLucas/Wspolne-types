@@ -12396,6 +12396,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Police"/>
+    <usage name="Hunting"/>
   </type>
   <type name="Mag_STANAG_30Rnd">
     <nominal>0</nominal>
@@ -12488,6 +12489,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <value name="Police"/>
+    <usage name="Hunting"/>
   </type>
   <type name="Mag_UMP_25Rnd">
     <nominal>3</nominal>
@@ -13678,8 +13680,8 @@
   <type name="NailBox">
     <nominal>15</nominal>
     <lifetime>14400</lifetime>
-    <restock>1800</restock>
-    <min>10</min>
+    <restock>10000</restock>
+    <min>6</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -15868,6 +15870,7 @@
     <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Police"/>
+    <usage name="Hunting"/>
   </type>
   <type name="SVD">
     <nominal>0</nominal>
@@ -16150,6 +16153,7 @@
     <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Police"/>
+    <usage name="Hunting"/>
   </type>
   <type name="Scout_Chernarus">
     <nominal>0</nominal>
@@ -19245,7 +19249,7 @@
     <usage name="Military"/>
   </type>
   <type name="UMP45">
-    <nominal>3</nominal>
+    <nominal>2</nominal>
     <lifetime>28800</lifetime>
     <restock>14400</restock>
     <min>1</min>
