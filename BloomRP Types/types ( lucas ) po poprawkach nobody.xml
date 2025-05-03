@@ -15149,9 +15149,9 @@
     <value name="Tier3"/>
   </type>
   <type name="PowerGenerator">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>604800</lifetime>
-    <restock>1800</restock>
+    <restock>60480</restock>
     <min>0</min>
     <quantmin>20</quantmin>
     <quantmax>70</quantmax>
