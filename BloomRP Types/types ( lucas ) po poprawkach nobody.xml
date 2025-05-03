@@ -5692,9 +5692,9 @@
     <usage name="SeasonalEvent"/>
   </type>
   <type name="Crossbow_Autumn">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
-    <restock>26000</restock>
+    <restock>60480</restock>
     <min>0</min>
     <quantmin>0</quantmin>
     <quantmax>0</quantmax>
@@ -5704,9 +5704,9 @@
     <usage name="Hunting"/>
   </type>
   <type name="Crossbow_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
-    <restock>26000</restock>
+    <restock>60480</restock>
     <min>0</min>
     <quantmin>0</quantmin>
     <quantmax>0</quantmax>
@@ -5717,9 +5717,9 @@
     <value name="Tier3"/>
   </type>
   <type name="Crossbow_Summer">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
-    <restock>26000</restock>
+    <restock>60480</restock>
     <min>0</min>
     <quantmin>0</quantmin>
     <quantmax>0</quantmax>
@@ -5731,7 +5731,7 @@
   <type name="Crossbow_Wood">
     <nominal>1</nominal>
     <lifetime>14400</lifetime>
-    <restock>26000</restock>
+    <restock>60480</restock>
     <min>0</min>
     <quantmin>0</quantmin>
     <quantmax>0</quantmax>
