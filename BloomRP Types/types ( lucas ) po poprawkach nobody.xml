@@ -5383,7 +5383,7 @@
     <usage name="Military"/>
   </type>
   <type name="CombatKnife">
-    <nominal>3</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>1800</restock>
     <min>2</min>
@@ -6772,7 +6772,7 @@
     <value name="Tier4"/>
   </type>
   <type name="FangeKnife">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>14400</lifetime>
     <restock>1800</restock>
     <min>2</min>
@@ -17968,10 +17968,10 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
   </type>
   <type name="SteakKnife">
-    <nominal>10</nominal>
+    <nominal>6</nominal>
     <lifetime>14400</lifetime>
     <restock>1800</restock>
-    <min>8</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
