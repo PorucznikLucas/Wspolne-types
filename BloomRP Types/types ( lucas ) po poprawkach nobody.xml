@@ -5731,7 +5731,7 @@
   <type name="Crossbow_Wood">
     <nominal>1</nominal>
     <lifetime>14400</lifetime>
-    <restock>60480</restock>
+    <restock>36000</restock>
     <min>0</min>
     <quantmin>0</quantmin>
     <quantmax>0</quantmax>
@@ -15153,7 +15153,7 @@
   <type name="PowerGenerator">
     <nominal>1</nominal>
     <lifetime>604800</lifetime>
-    <restock>60480</restock>
+    <restock>72000</restock>
     <min>0</min>
     <quantmin>20</quantmin>
     <quantmax>70</quantmax>
