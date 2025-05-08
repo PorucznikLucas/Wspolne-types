@@ -1,9 +1,9 @@
 <types>	
     <type name="Blue_Leggings">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13,10 +13,10 @@
         <usage name="Village"/>
     </type>
 	<type name="Latex_Leggings">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26,10 +26,10 @@
         <usage name="Village"/>
     </type>
     <type name="Adidas_Leggings">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -39,10 +39,10 @@
         <usage name="Village"/>
     </type>
     <type name="Red_Leggings">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -52,10 +52,10 @@
         <usage name="Village"/>
     </type>
     <type name="Purple_Leggings">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>2700</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -65,10 +65,10 @@
         <usage name="Village"/>
     </type>
     <type name="Fleece_Grey_Leggings">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>2700</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -78,10 +78,10 @@
         <usage name="Village"/>
     </type>
     <type name="Latex_White_Leggings">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>2700</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -106,10 +106,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Poncho_Red_Checkered">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -119,10 +119,10 @@
         <usage name="Village"/>
     </type>
     <type name="Poncho_Blue_Checkered">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -132,10 +132,10 @@
         <usage name="Village"/>
     </type>
     <type name="Poncho_Yellow_Checkered">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -145,10 +145,10 @@
         <usage name="Village"/>
     </type>
     <type name="Poncho_Brown">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -158,10 +158,10 @@
         <usage name="Village"/>
     </type>
     <type name="Poncho_Green">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -171,10 +171,10 @@
         <usage name="Village"/>
     </type>
     <type name="Poncho_White">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -184,10 +184,10 @@
         <usage name="Village"/>
     </type>
     <type name="Poncho_Red">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>2700</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -197,10 +197,10 @@
         <usage name="Village"/>
     </type>
     <type name="Poncho_Black">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>2700</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -210,10 +210,10 @@
         <usage name="Village"/>
     </type>
     <type name="Poncho_BlackAndWhite">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -223,10 +223,10 @@
         <usage name="Village"/>
     </type>
     <type name="Poncho_BlackAndWhite2">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -236,7 +236,7 @@
         <usage name="Village"/>
     </type>
     <type name="Fingerless_Gloves">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
         <min>2</min>
