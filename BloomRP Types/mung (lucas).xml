@@ -659,7 +659,7 @@
         <usage name="Village"/>
     </type>
     <type name="shawl_red_mung">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -673,7 +673,7 @@
         <usage name="Village"/>
     </type>
     <type name="shawl_templar_mung">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -687,7 +687,7 @@
         <usage name="Village"/>
     </type>
     <type name="shawl_palestini_mung">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -715,7 +715,7 @@
         <usage name="Village"/>
     </type>
     <type name="shawl_floral_mung">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
