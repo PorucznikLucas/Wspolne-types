@@ -14,26 +14,26 @@ Skills.DeleteSkillbookAfterReading = true;                  // [type: bool; defa
 Skills.SkillbookExpModifier = 5;                            // [type: float; default: 1] Sets modifier for skills experience gained after reading a book.
 
 // Athletic
-Skills.AthleticCheckDistance = 1000;                        // [type: int; default: 100] Sets the distance a player must run to gain athletic experience.
-Skills.AthleticExpGain = 50;                                // [type: int; default: 10] Sets the value of experience points that the player will gain by running. This parameter is also affected by ExperienceGainModifier.
-Skills.AthleticCooldownModifier = 30;                       // [type: float; default: 10] Sets a modifier for the stamina recovery cooldown. Use 1.0 to back vanilla cooldown value.
+Skills.AthleticCheckDistance = 300;                        // [type: int; default: 100] Sets the distance a player must run to gain athletic experience.
+Skills.AthleticExpGain = 20;                                // [type: int; default: 10] Sets the value of experience points that the player will gain by running. This parameter is also affected by ExperienceGainModifier.
+Skills.AthleticCooldownModifier = 10;                       // [type: float; default: 10] Sets a modifier for the stamina recovery cooldown. Use 1.0 to back vanilla cooldown value.
 
 // Strength
 Skills.StrengthMeleeLightGainChance = 0.1;                  // [type: float; default: 0.1] Sets the chance the player will gain experience for a successful light melee attack.
-Skills.StrengthMeleeLightGainExp = 10;                      // [type: int; default: 15] Sets the value of experience points that the player will gain for a successful light melee attack. This parameter is also affected by ExperienceGainModifier.
+Skills.StrengthMeleeLightGainExp = 5;                      // [type: int; default: 15] Sets the value of experience points that the player will gain for a successful light melee attack. This parameter is also affected by ExperienceGainModifier.
 Skills.StrengthMeleeHeavyGainChance = 0.2;                  // [type: float; default: 0.5] Sets the chance the player will gain experience for a successful heavy melee attack.
-Skills.StrengthMeleeHeavyGainExp = 20;                      // [type: int; default: 30] Sets the value of experience points that the player will gain for a successful heavy melee attack. This parameter is also affected by ExperienceGainModifier.
+Skills.StrengthMeleeHeavyGainExp = 10;                      // [type: int; default: 30] Sets the value of experience points that the player will gain for a successful heavy melee attack. This parameter is also affected by ExperienceGainModifier.
 Skills.StrengthItemsUseGainChance = 0.2;                    // [type: float; default: 0.2] Sets the chance the player will gain experience for the use of tools (chopping firewood, extracting stones, etc).
 Skills.StrengthItemsUseGainExp = 10;                        // [type: int; default: 10] Sets the value of experience points that the player will gain for the use of tools (chopping firewood, extracting stones, etc). This parameter is also affected by ExperienceGainModifier.
 Skills.StrengthHandsPerkThreshold = 30;                     // [type: float; default: 20] Sets the maximum weight of the object that the player can take in his hands without the Sturdy Hands perk. (in kilograms)
 
 // Metabolism
-Skills.MetabolismConsumeFoodExpMod = 1;                     // [type: float; default: 1] Sets the modifier for gained metabolism skill experience when player is eating a food.
-Skills.MetabolismConsumeWaterExpMod = 1;                    // [type: float; default: 1] Sets the modifier for gained metabolism skill experience when player is drinking a water.
+Skills.MetabolismConsumeFoodExpMod = 0.5;                     // [type: float; default: 1] Sets the modifier for gained metabolism skill experience when player is eating a food.
+Skills.MetabolismConsumeWaterExpMod = 0.5;                    // [type: float; default: 1] Sets the modifier for gained metabolism skill experience when player is drinking a water.
 
 // Stealth
 Skills.StealthCatVisionPower = 1;                           // [type: float; default: 1] Sets the modifier of power for the CatVision perk.
-Skills.StealthCheckDistance = 20;                           // [type: int; default: 30] Sets the distance a player must crouch to gain stealth experience.
+Skills.StealthCheckDistance = 50;                           // [type: int; default: 30] Sets the distance a player must crouch to gain stealth experience.
 Skills.StealthExpGain = 10;                                 // [type: int; default: 10] Sets the value of experience points that the player will gain by crouching. This parameter is also affected by ExperienceGainModifier.
 Skills.StealthZombiesVisibilityModifier = 1.0;              // [type: float; default: 1.5] Sets global player visibility modifier for targeting by zombies.
 Skills.StealthWolvesVisibilityModifier = 0.75;              // [type: float; default: 1] Sets global player visibility modifier for targeting by wolves.
@@ -47,15 +47,15 @@ Skills.SurvMakeFireSuccessGainExp = 25;                     // [type: int; defau
 Skills.SurvMakeFireFailGainExp = 10;                        // [type: int; default: 10] Sets the value of experience points that the player will gain for trying to making a fire. This parameter is also affected by ExperienceGainModifier.
 Skills.SurvKillZombieGainExp = 5;                           // [type: int; default: 5] Sets the value of experience points that the player will gain when kill a zombie. This parameter is also affected by ExperienceGainModifier.
 Skills.SurvLifetimeGainExp = 100;                           // [type: int; default: 100] Sets the value of experience points that the player will gain when survived for a long time. This parameter is also affected by ExperienceGainModifier.
-Skills.SurvLifetimeOffset = 3600;                           // [type: int; default: 3600] Sets the cyclic time interval in seconds after which the player will be awarded additional experience points for the survival skill.
+Skills.SurvLifetimeOffset = 4000;                           // [type: int; default: 3600] Sets the cyclic time interval in seconds after which the player will be awarded additional experience points for the survival skill.
 Skills.SurvOverrideStartFireTime = 10;                      // [type: float; default: 15] Overrides the time for starting the fire. If the value is -1, the default value will be used instead.
-Skills.SurvCookingOnStickExpGain = 3;                       // [type: int; default: 5] Sets the value of experience points that the player will gain for successfully cooking a food on stick. This parameter is also affected by ExperienceGainModifier.
+Skills.SurvCookingOnStickExpGain = 4;                       // [type: int; default: 5] Sets the value of experience points that the player will gain for successfully cooking a food on stick. This parameter is also affected by ExperienceGainModifier.
 
 // Hunting
-Skills.HuntingKillAnimalExpGainModifier = 1;                // [type: float; default: 1] Sets the value of the experience modifier that the player will get after killing an animal. This modifier is multiplied by the parameter terjeOnKillHuntingExp from the animals config.
-Skills.HuntingHeadshotAnimalExpGainModifier = 2;            // [type: float; default: 1] Sets the value of the experience modifier that the player will get after killing an animal with headshot in additional to HuntingKillAnimalExpGainModifier. This modifier is multiplied by the parameter terjeOnHeadshotHuntingExp from the animals config.
-Skills.HuntingButchAnimalExpGainModifier = 1;               // [type: float; default: 1] Sets the value of the experience modifier that the player will get after butchering an animal. This modifier is multiplied by the parameter terjeOnButchHuntingExp from the animals config.
-Skills.HuntingTrapAnimalExpGainModifier = 2;                // [type: float; default: 1] Sets the value of the experience modifier that the player will get after cathing an animal by the trap. This modifier is multiplied by the parameter terjeOnCatchAnimalHuntingExp from the traps config.
+Skills.HuntingKillAnimalExpGainModifier = 0.4;                // [type: float; default: 1] Sets the value of the experience modifier that the player will get after killing an animal. This modifier is multiplied by the parameter terjeOnKillHuntingExp from the animals config.
+Skills.HuntingHeadshotAnimalExpGainModifier = 0.4;            // [type: float; default: 1] Sets the value of the experience modifier that the player will get after killing an animal with headshot in additional to HuntingKillAnimalExpGainModifier. This modifier is multiplied by the parameter terjeOnHeadshotHuntingExp from the animals config.
+Skills.HuntingButchAnimalExpGainModifier = 0.5;               // [type: float; default: 1] Sets the value of the experience modifier that the player will get after butchering an animal. This modifier is multiplied by the parameter terjeOnButchHuntingExp from the animals config.
+Skills.HuntingTrapAnimalExpGainModifier = 1;                // [type: float; default: 1] Sets the value of the experience modifier that the player will get after cathing an animal by the trap. This modifier is multiplied by the parameter terjeOnCatchAnimalHuntingExp from the traps config.
 Skills.HuntingOverrideSkinningTime = 60;                    // [type: float; default: 60] Sets the time of skinning animal carcasses for use with the QuickSkinning perk. If the value is -1, the default value will be used instead.
 Skills.HuntingOverrideKnifeDamage = 50;                    	// [type: float; default: 100] Sets the absolute damage value for a knife when skinning animal carcasses. Affected by MasterKnife perk.
 Skills.HuntingOverrideMeatInitQuantity = 0.25;              // [type: float; default: 0.25] Sets the maximum initial random quantity for the one peace of meat that can be produced during the skinning without skills. The MeatHunter modifier will be added to this value. Value range from 0 (0%) to 1 (100%).
@@ -63,11 +63,11 @@ Skills.HuntingOverrideMeatMinQuantity = 0.15;               // [type: float; def
 Skills.HuntingOverrideBonesInitHp = 0;                      // [type: float; default: 0] Sets the minimum health for the bones that can be produced during the skinning without skills. Value range from 0 (0%) to 1 (100%).
 
 // Fishing
-Skills.FishingSuccessCatchGainExp = 125;                    // [type: int; default: 50] Sets the experience value that the player will receive if the catch is successful. This parameter is also affected by ExperienceGainModifier.
-Skills.FishingFailedCatchGainExp = 30;                      // [type: int; default: 10] Sets the experience value that the player will receive if the catch is failed. This parameter is also affected by ExperienceGainModifier.
+Skills.FishingSuccessCatchGainExp = 25;                    // [type: int; default: 50] Sets the experience value that the player will receive if the catch is successful. This parameter is also affected by ExperienceGainModifier.
+Skills.FishingFailedCatchGainExp = 5;                      // [type: int; default: 10] Sets the experience value that the player will receive if the catch is failed. This parameter is also affected by ExperienceGainModifier.
 Skills.FishingOverrideFilletMinQuantity = 0.2;              // [type: float; default: 0.2] Sets the minimum quantity for the one peace of fish fillet that can be produced during the skinning without skills. Value range from 0 (0%) to 1 (100%).
-Skills.FishingOverrideRodDamage = 2;                        // [type: float; default: 5] Sets the absolute damage value for a fishing rod after a fishing action. Affected by StraightArms perk.
-Skills.FishingOverrideHookDamage = 2;                       // [type: float; default: 5] Sets the absolute damage value for a fishing hook after a fishing action. Affected by StraightArms perk.
+Skills.FishingOverrideRodDamage = 3;                        // [type: float; default: 5] Sets the absolute damage value for a fishing rod after a fishing action. Affected by StraightArms perk.
+Skills.FishingOverrideHookDamage = 3;                       // [type: float; default: 5] Sets the absolute damage value for a fishing hook after a fishing action. Affected by StraightArms perk.
 Skills.FishingOverrideKnifeDamage = 20;                     // [type: float; default: 50] Sets the absolute damage value for a knife when skinning fishes. Affected by StraightArms perk.
 Skills.FishingFishSizeModifier = 0.2;                       // [type: float; default: 0.2] Sets the fish size modifier. It is used for the player to catch fish of different sizes for correct work of FishermanLuck skill.
 Skills.FishingButchExpGainModifier = 1;                     // [type: float; default: 1] Sets the value of the experience modifier that the player will get after butchering (cleaning) an fish. This modifier is multiplied by the parameter terjeOnButchHuntingExp from the fishs config.
@@ -77,7 +77,7 @@ Skills.InitialExpSkill_immunity = 3;                        // [type: int; defau
 Skills.InitialExpSkill_med = 0;                             // [type: int; default: 0] Sets the initial value of med skill experience for new player (for the first respawn only).
 Skills.InitialExpSkill_athlc = 3;                           // [type: int; default: 0] Sets the initial value of athlc skill experience for new player (for the first respawn only).
 Skills.InitialExpSkill_strng = 3;                           // [type: int; default: 0] Sets the initial value of strng skill experience for new player (for the first respawn only).
-Skills.InitialExpSkill_mtblsm = 3;                          // [type: int; default: 0] Sets the initial value of mtblsm skill experience for new player (for the first respawn only).
+Skills.InitialExpSkill_mtblsm = 0;                          // [type: int; default: 0] Sets the initial value of mtblsm skill experience for new player (for the first respawn only).
 Skills.InitialExpSkill_stlth = 0;                           // [type: int; default: 0] Sets the initial value of stlth skill experience for new player (for the first respawn only).
 Skills.InitialExpSkill_surv = 3;                            // [type: int; default: 0] Sets the initial value of surv skill experience for new player (for the first respawn only).
 Skills.InitialExpSkill_hunt = 1;                            // [type: int; default: 0] Sets the initial value of hunt skill experience for new player (for the first respawn only).
@@ -136,19 +136,19 @@ Skills.EnablePerk_athlc_swimmer = true;                     // [type: bool; defa
 Skills.EnablePerk_athlc_ladder = true;                      // [type: bool; default: true] Sets is perk ladder enabled for skill athlc.
 Skills.EnablePerk_athlc_npant = true;                       // [type: bool; default: true] Sets is perk npant enabled for skill athlc.
 Skills.EnablePerk_athlc_enduring = true;                    // [type: bool; default: true] Sets is perk enduring enabled for skill athlc.
-Skills.EnablePerk_athlc_stuntman = true;                    // [type: bool; default: true] Sets is perk stuntman enabled for skill athlc.
-Skills.EnablePerk_athlc_strbones = true;                    // [type: bool; default: true] Sets is perk strbones enabled for skill athlc.
+Skills.EnablePerk_athlc_stuntman = false;                    // [type: bool; default: true] Sets is perk stuntman enabled for skill athlc.
+Skills.EnablePerk_athlc_strbones = false;                    // [type: bool; default: true] Sets is perk strbones enabled for skill athlc.
 Skills.EnablePerk_strng_hvweight = true;                    // [type: bool; default: true] Sets is perk hvweight enabled for skill strng.
 Skills.EnablePerk_strng_jumper = true;                      // [type: bool; default: true] Sets is perk jumper enabled for skill strng.
 Skills.EnablePerk_strng_mrdefence = true;                   // [type: bool; default: true] Sets is perk mrdefence enabled for skill strng.
 Skills.EnablePerk_strng_mrevasion = true;                   // [type: bool; default: true] Sets is perk mrevasion enabled for skill strng.
 Skills.EnablePerk_strng_lattkspeed = true;                  // [type: bool; default: true] Sets is perk lattkspeed enabled for skill strng.
-Skills.EnablePerk_strng_lattkforce = true;                  // [type: bool; default: true] Sets is perk lattkforce enabled for skill strng.
+Skills.EnablePerk_strng_lattkforce = false;                  // [type: bool; default: true] Sets is perk lattkforce enabled for skill strng.
 Skills.EnablePerk_strng_hattkspeed = true;                  // [type: bool; default: true] Sets is perk hattkspeed enabled for skill strng.
-Skills.EnablePerk_strng_hattkforce = true;                  // [type: bool; default: true] Sets is perk hattkforce enabled for skill strng.
+Skills.EnablePerk_strng_hattkforce = false;                  // [type: bool; default: true] Sets is perk hattkforce enabled for skill strng.
 Skills.EnablePerk_strng_ltarmor = true;                     // [type: bool; default: true] Sets is perk ltarmor enabled for skill strng.
 Skills.EnablePerk_strng_strhands = true;                    // [type: bool; default: true] Sets is perk strhands enabled for skill strng.
-Skills.EnablePerk_strng_mrstroke = true;                    // [type: bool; default: true] Sets is perk mrstroke enabled for skill strng.
+Skills.EnablePerk_strng_mrstroke = false;                    // [type: bool; default: true] Sets is perk mrstroke enabled for skill strng.
 Skills.EnablePerk_mtblsm_incalorie = true;                  // [type: bool; default: true] Sets is perk incalorie enabled for skill mtblsm.
 Skills.EnablePerk_mtblsm_incrhydr = true;                   // [type: bool; default: true] Sets is perk incrhydr enabled for skill mtblsm.
 Skills.EnablePerk_mtblsm_enrgsave = true;                   // [type: bool; default: true] Sets is perk enrgsave enabled for skill mtblsm.
