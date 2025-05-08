@@ -31,7 +31,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Farm"/>
+	<usage name="Farm"/>
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
@@ -115,7 +115,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Farm"/>
+	<usage name="Farm"/>
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
@@ -472,7 +472,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="tools"/>
 	<usage name="Military"/>
 	<value name="Tier3"/>
@@ -490,7 +490,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="tools"/>
 	<usage name="Military"/>
 	<value name="Tier3"/>
@@ -521,7 +521,7 @@
 	<type name="rag_baseitems_mesh_locker_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>70000</restock>
+        <restock>60000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -544,7 +544,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="tools"/>
 	<usage name="Military"/>
 	<value name="Tier4"/>
@@ -561,7 +561,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="tools"/>
         <usage name="Military"/>
 	<value name="Tier3"/>
@@ -593,7 +593,7 @@
 	<type name="rag_baseitems_single_locker_black_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>27000</restock>
+        <restock>24000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -612,7 +612,7 @@
 	<type name="rag_baseitems_single_locker_green_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>27000</restock>
+        <restock>24000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -630,7 +630,7 @@
 	<type name="rag_baseitems_single_locker_purple_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>27000</restock>
+        <restock>24000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -648,7 +648,7 @@
 	<type name="rag_baseitems_single_locker_red_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>27000</restock>
+        <restock>24000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -667,7 +667,7 @@
 	<type name="rag_baseitems_single_locker_yellow_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>27000</restock>
+        <restock>24000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -686,7 +686,7 @@
 	<type name="rag_baseitems_triple_locker_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>50000</restock>
+        <restock>60000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -705,7 +705,7 @@
 	<type name="rag_baseitems_triple_locker_black_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>50000</restock>
+        <restock>60000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -724,7 +724,7 @@
 	<type name="rag_baseitems_triple_locker_green_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>50000</restock>
+        <restock>60000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -742,7 +742,7 @@
 	<type name="rag_baseitems_triple_locker_purple_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>50000</restock>
+        <restock>60000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -760,7 +760,7 @@
 	<type name="rag_baseitems_triple_locker_red_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>50000</restock>
+        <restock>60000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -779,7 +779,7 @@
 	<type name="rag_baseitems_triple_locker_yellow_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>50000</restock>
+        <restock>60000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -814,7 +814,7 @@
 	<type name="rag_baseitems_firstaid_cabinet_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>30000</restock>
+        <restock>24000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -832,7 +832,7 @@
 	<type name="rag_baseitems_medic_box_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>50000</restock>
+        <restock>60000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -903,7 +903,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Office"/>
+	<usage name="Office"/>
         <usage name="School"/>
     </type>
 	<type name="rag_baseitems_grammophone_3_disk">
@@ -920,7 +920,7 @@
         <usage name="School"/>
     </type>
 	<type name="rag_baseitems_grammophone_4_disk">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
         <min>0</min>
@@ -1104,11 +1104,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Office"/>
+	<usage name="Office"/>
         <usage name="School"/>
-		<usage name="Hunting"/>
-		<usage name="Industrial"/>
-		<usage name="Farm"/>
+	<usage name="Hunting"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
@@ -1147,11 +1147,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Office"/>
+	<usage name="Office"/>
         <usage name="School"/>
-		<usage name="Hunting"/>
-		<usage name="Industrial"/>
-		<usage name="Farm"/>
+	<usage name="Hunting"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
@@ -1169,11 +1169,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Office"/>
+	<usage name="Office"/>
         <usage name="School"/>
-		<usage name="Hunting"/>
-		<usage name="Industrial"/>
-		<usage name="Farm"/>
+	<usage name="Hunting"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
@@ -1191,11 +1191,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Office"/>
+	<usage name="Office"/>
         <usage name="School"/>
-		<usage name="Hunting"/>
-		<usage name="Industrial"/>
-		<usage name="Farm"/>
+	<usage name="Hunting"/>
+        <usage name="Industrial"/>
+	<usage name="Farm"/>
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
@@ -1213,11 +1213,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Office"/>
+	<usage name="Office"/>
         <usage name="School"/>
-		<usage name="Hunting"/>
-		<usage name="Industrial"/>
-		<usage name="Farm"/>
+	<usage name="Hunting"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
@@ -1235,11 +1235,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Office"/>
+	<usage name="Office"/>
         <usage name="School"/>
-		<usage name="Hunting"/>
-		<usage name="Industrial"/>
-		<usage name="Farm"/>
+	<usage name="Hunting"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
@@ -1257,11 +1257,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Office"/>
+	<usage name="Office"/>
         <usage name="School"/>
-		<usage name="Hunting"/>
-		<usage name="Industrial"/>
-		<usage name="Farm"/>
+	<usage name="Hunting"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
@@ -1279,11 +1279,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Office"/>
+	<usage name="Office"/>
         <usage name="School"/>
-		<usage name="Hunting"/>
-		<usage name="Industrial"/>
-		<usage name="Farm"/>
+	<usage name="Hunting"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
@@ -1307,7 +1307,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
 	<usage name="Military"/>
 	<value name="Tier3"/>
@@ -1912,10 +1912,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Industrial"/>
-		<usage name="Farm"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
@@ -3005,7 +3005,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
 	<usage name="Industrial"/>
 	<usage name="Military"/>
