@@ -12,8 +12,8 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<tag name="shelves"/>
-        <tag name="ground"/>
-        <tag name="floor"/>		
+                <tag name="ground"/>
+                <tag name="floor"/>		
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeExpressTestVirusZPack">
@@ -45,23 +45,6 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeExpressTestRabiesPack">
-		<nominal>0</nominal>
-		<lifetime>28800</lifetime>
-		<restock>7200</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="tools"/>
-		<tag name="shelves"/>
-        <tag name="ground"/>
-        <tag name="floor"/> 	
-		<usage name="Medic"/>
-	</type>
-	
-	<!-- TERJE TOOLS -->
-	<type name="TerjeStethoscope">
 		<nominal>1</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
@@ -72,8 +55,25 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<tag name="shelves"/>
+                <tag name="ground"/>
+                <tag name="floor"/> 	
+		<usage name="Medic"/>
+	</type>
+	
+	<!-- TERJE TOOLS -->
+	<type name="TerjeStethoscope">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeSleepingBag_Blue">
@@ -107,7 +107,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Hunting"/>
 		<usage name="Military"/>
 	</type>
@@ -135,7 +135,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePlaster">
@@ -150,7 +150,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 
@@ -239,7 +239,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsNimesulid">
@@ -254,7 +254,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsParacetamol">
@@ -269,7 +269,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsIbuprofen">
@@ -284,7 +284,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsNurofen">
@@ -299,7 +299,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsAmoxiclav">
@@ -314,7 +314,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsPiperacylin">
@@ -329,7 +329,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsAmibaktam">
@@ -344,7 +344,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsPolisorb">
@@ -359,7 +359,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsMesalazin">
@@ -374,7 +374,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsFtalazol">
@@ -389,7 +389,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsNoopept">
@@ -404,7 +404,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsVikasol">
@@ -434,7 +434,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsAgteminol">
@@ -449,7 +449,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsVenlafaxine">
@@ -464,7 +464,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsRombiopental">
@@ -479,7 +479,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	
@@ -496,7 +496,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeAmpouleFlemoclav">
@@ -511,7 +511,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeAmpouleImipenem">
@@ -526,7 +526,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeAmpouleMorphine">
@@ -541,7 +541,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeAmpouleGexobarbital">
@@ -556,7 +556,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeAmpouleKetamin">
@@ -571,7 +571,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeAmpouleHeptral">
@@ -586,7 +586,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeAmpouleMetoclopramid">
@@ -601,7 +601,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeAmpouleActaparoxetine">
@@ -616,7 +616,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeAmpouleAmitriptyline">
@@ -661,93 +661,93 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	
 	<!-- TERJE INJECTORS -->
 	<type name="TerjeInjectorPromidol">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>28800</lifetime>
 		<restock>18000</restock>
-		<min>1</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeInjectorTopoizomeraza">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>28800</lifetime>
 		<restock>18000</restock>
-		<min>1</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeInjectorErytromixelin">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>28800</lifetime>
 		<restock>18000</restock>
-		<min>1</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeInjectorStomaproxidal">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>28800</lifetime>
 		<restock>18000</restock>
-		<min>1</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeInjectorRabinucoline">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>28800</lifetime>
 		<restock>18000</restock>
-		<min>1</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeInjectorAmfitalicyne">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>28800</lifetime>
 		<restock>18000</restock>
-		<min>1</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
@@ -755,10 +755,10 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeInjectorReanimatal">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>28800</lifetime>
 		<restock>18000</restock>
-		<min>1</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
