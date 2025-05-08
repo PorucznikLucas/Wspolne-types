@@ -2394,10 +2394,10 @@
     <category name="food"/>
   </type>
   <type name="Balaclava3Holes_Beige">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>1800</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2409,10 +2409,10 @@
     <value name="Tier3"/>
   </type>
   <type name="Balaclava3Holes_Black">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>1800</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2427,10 +2427,10 @@
     <value name="Tier4"/>
   </type>
   <type name="Balaclava3Holes_Blue">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>1800</restock>
-    <min>1</min>
+    <min></min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2442,10 +2442,10 @@
     <value name="Tier2"/>
   </type>
   <type name="Balaclava3Holes_Green">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>1800</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2457,10 +2457,10 @@
     <value name="Tier4"/>
   </type>
   <type name="BalaclavaMask_Beige">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>28800</lifetime>
     <restock>1800</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2474,10 +2474,10 @@
     <value name="Tier3"/>
   </type>
   <type name="BalaclavaMask_Black">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>28800</lifetime>
     <restock>1800</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2492,10 +2492,10 @@
     <value name="Tier4"/>
   </type>
   <type name="BalaclavaMask_Blackskull">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>28800</lifetime>
     <restock>1800</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2506,10 +2506,10 @@
     <value name="Tier4"/>
   </type>
   <type name="BalaclavaMask_Blue">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>28800</lifetime>
     <restock>1800</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2523,10 +2523,10 @@
     <value name="Tier3"/>
   </type>
   <type name="BalaclavaMask_Green">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>28800</lifetime>
     <restock>1800</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2542,10 +2542,10 @@
     <value name="Tier4"/>
   </type>
   <type name="BalaclavaMask_Pink">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>28800</lifetime>
     <restock>1800</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2558,10 +2558,10 @@
     <value name="Tier1"/>
   </type>
   <type name="BalaclavaMask_White">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>28800</lifetime>
     <restock>1800</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2623,15 +2623,15 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="tools"/>
     <tag name="shelves"/>
-	<tag name="floor"/>
+    <tag name="floor"/>
     <tag name="ground"/>
     <usage name="Medic"/>
   </type>
   <type name="Bandana_Blackpattern">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>1800</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2644,10 +2644,10 @@
     <value name="Tier4"/>
   </type>
   <type name="Bandana_Camopattern">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>1800</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2660,10 +2660,10 @@
     <value name="Tier4"/>
   </type>
   <type name="Bandana_Greenpattern">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>1800</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2676,10 +2676,10 @@
     <value name="Tier4"/>
   </type>
   <type name="Bandana_Polkapattern">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>1800</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2689,10 +2689,10 @@
     <usage name="Village"/>
   </type>
   <type name="Bandana_Redpattern">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>1800</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -12393,7 +12393,7 @@
     <quantmin>0</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
     <category name="weapons"/>
     <usage name="Police"/>
     <usage name="Hunting"/>
@@ -12486,7 +12486,7 @@
     <quantmin>20</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
     <category name="weapons"/>
     <value name="Police"/>
     <usage name="Hunting"/>
@@ -13511,7 +13511,7 @@
     <quantmin>0</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
     <category name="weapons"/>
     <usage name="Police"/>
   </type>
@@ -15867,7 +15867,7 @@
     <quantmin>0</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
     <category name="weapons"/>
     <usage name="Police"/>
     <usage name="Hunting"/>
@@ -16150,7 +16150,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
     <category name="weapons"/>
     <usage name="Police"/>
     <usage name="Hunting"/>
@@ -19511,10 +19511,10 @@
     <usage name="Tier4"/>
   </type>
   <type name="WeldingMask">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>1800</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
