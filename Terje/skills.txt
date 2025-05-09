@@ -14,9 +14,9 @@ Skills.DeleteSkillbookAfterReading = true;                  // [type: bool; defa
 Skills.SkillbookExpModifier = 5;                            // [type: float; default: 1] Sets modifier for skills experience gained after reading a book.
 
 // Athletic
-Skills.AthleticCheckDistance = 300;                        // [type: int; default: 100] Sets the distance a player must run to gain athletic experience.
-Skills.AthleticExpGain = 20;                                // [type: int; default: 10] Sets the value of experience points that the player will gain by running. This parameter is also affected by ExperienceGainModifier.
-Skills.AthleticCooldownModifier = 10;                       // [type: float; default: 10] Sets a modifier for the stamina recovery cooldown. Use 1.0 to back vanilla cooldown value.
+Skills.AthleticCheckDistance = 200;                        // [type: int; default: 100] Sets the distance a player must run to gain athletic experience.
+Skills.AthleticExpGain = 10;                                // [type: int; default: 10] Sets the value of experience points that the player will gain by running. This parameter is also affected by ExperienceGainModifier.
+Skills.AthleticCooldownModifier = 12;                       // [type: float; default: 10] Sets a modifier for the stamina recovery cooldown. Use 1.0 to back vanilla cooldown value.
 
 // Strength
 Skills.StrengthMeleeLightGainChance = 0.1;                  // [type: float; default: 0.1] Sets the chance the player will gain experience for a successful light melee attack.
@@ -25,11 +25,11 @@ Skills.StrengthMeleeHeavyGainChance = 0.2;                  // [type: float; def
 Skills.StrengthMeleeHeavyGainExp = 10;                      // [type: int; default: 30] Sets the value of experience points that the player will gain for a successful heavy melee attack. This parameter is also affected by ExperienceGainModifier.
 Skills.StrengthItemsUseGainChance = 0.2;                    // [type: float; default: 0.2] Sets the chance the player will gain experience for the use of tools (chopping firewood, extracting stones, etc).
 Skills.StrengthItemsUseGainExp = 10;                        // [type: int; default: 10] Sets the value of experience points that the player will gain for the use of tools (chopping firewood, extracting stones, etc). This parameter is also affected by ExperienceGainModifier.
-Skills.StrengthHandsPerkThreshold = 30;                     // [type: float; default: 20] Sets the maximum weight of the object that the player can take in his hands without the Sturdy Hands perk. (in kilograms)
+Skills.StrengthHandsPerkThreshold = 19;                     // [type: float; default: 20] Sets the maximum weight of the object that the player can take in his hands without the Sturdy Hands perk. (in kilograms)
 
 // Metabolism
-Skills.MetabolismConsumeFoodExpMod = 0.5;                     // [type: float; default: 1] Sets the modifier for gained metabolism skill experience when player is eating a food.
-Skills.MetabolismConsumeWaterExpMod = 0.5;                    // [type: float; default: 1] Sets the modifier for gained metabolism skill experience when player is drinking a water.
+Skills.MetabolismConsumeFoodExpMod = 0.3;                     // [type: float; default: 1] Sets the modifier for gained metabolism skill experience when player is eating a food.
+Skills.MetabolismConsumeWaterExpMod = 0.3;                    // [type: float; default: 1] Sets the modifier for gained metabolism skill experience when player is drinking a water.
 
 // Stealth
 Skills.StealthCatVisionPower = 1;                           // [type: float; default: 1] Sets the modifier of power for the CatVision perk.
@@ -52,8 +52,8 @@ Skills.SurvOverrideStartFireTime = 10;                      // [type: float; def
 Skills.SurvCookingOnStickExpGain = 4;                       // [type: int; default: 5] Sets the value of experience points that the player will gain for successfully cooking a food on stick. This parameter is also affected by ExperienceGainModifier.
 
 // Hunting
-Skills.HuntingKillAnimalExpGainModifier = 0.4;                // [type: float; default: 1] Sets the value of the experience modifier that the player will get after killing an animal. This modifier is multiplied by the parameter terjeOnKillHuntingExp from the animals config.
-Skills.HuntingHeadshotAnimalExpGainModifier = 0.4;            // [type: float; default: 1] Sets the value of the experience modifier that the player will get after killing an animal with headshot in additional to HuntingKillAnimalExpGainModifier. This modifier is multiplied by the parameter terjeOnHeadshotHuntingExp from the animals config.
+Skills.HuntingKillAnimalExpGainModifier = 0.5;                // [type: float; default: 1] Sets the value of the experience modifier that the player will get after killing an animal. This modifier is multiplied by the parameter terjeOnKillHuntingExp from the animals config.
+Skills.HuntingHeadshotAnimalExpGainModifier = 0.5;            // [type: float; default: 1] Sets the value of the experience modifier that the player will get after killing an animal with headshot in additional to HuntingKillAnimalExpGainModifier. This modifier is multiplied by the parameter terjeOnHeadshotHuntingExp from the animals config.
 Skills.HuntingButchAnimalExpGainModifier = 0.5;               // [type: float; default: 1] Sets the value of the experience modifier that the player will get after butchering an animal. This modifier is multiplied by the parameter terjeOnButchHuntingExp from the animals config.
 Skills.HuntingTrapAnimalExpGainModifier = 1;                // [type: float; default: 1] Sets the value of the experience modifier that the player will get after cathing an animal by the trap. This modifier is multiplied by the parameter terjeOnCatchAnimalHuntingExp from the traps config.
 Skills.HuntingOverrideSkinningTime = 60;                    // [type: float; default: 60] Sets the time of skinning animal carcasses for use with the QuickSkinning perk. If the value is -1, the default value will be used instead.
