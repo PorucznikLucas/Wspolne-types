@@ -33,12 +33,12 @@ Skills.MetabolismConsumeWaterExpMod = 0.3;                    // [type: float; d
 
 // Stealth
 Skills.StealthCatVisionPower = 1;                           // [type: float; default: 1] Sets the modifier of power for the CatVision perk.
-Skills.StealthCheckDistance = 50;                           // [type: int; default: 30] Sets the distance a player must crouch to gain stealth experience.
+Skills.StealthCheckDistance = 70;                           // [type: int; default: 30] Sets the distance a player must crouch to gain stealth experience.
 Skills.StealthExpGain = 10;                                 // [type: int; default: 10] Sets the value of experience points that the player will gain by crouching. This parameter is also affected by ExperienceGainModifier.
 Skills.StealthZombiesVisibilityModifier = 1.0;              // [type: float; default: 1.5] Sets global player visibility modifier for targeting by zombies.
-Skills.StealthWolvesVisibilityModifier = 0.75;              // [type: float; default: 1] Sets global player visibility modifier for targeting by wolves.
-Skills.StealthBearsVisibilityModifier = 0.8;                // [type: float; default: 1] Sets global player visibility modifier for targeting by bears.
-Skills.StealthPlayerNoiseModifier = 1.0;                    // [type: float; default: 1.5] Sets global player modifier for noise system.
+Skills.StealthWolvesVisibilityModifier = 0.9;              // [type: float; default: 1] Sets global player visibility modifier for targeting by wolves.
+Skills.StealthBearsVisibilityModifier = 0.9;                // [type: float; default: 1] Sets global player visibility modifier for targeting by bears.
+Skills.StealthPlayerNoiseModifier = 1.5;                    // [type: float; default: 1.5] Sets global player modifier for noise system.
 
 // Survival
 Skills.SurvTemperatureModifier = 0.7;                       // [type: float; default: 0.5] Sets the modifier value that is multiplied by the environment temperature modifier calculated from ReducedTempModifier of the survival skill.
