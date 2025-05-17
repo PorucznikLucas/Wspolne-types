@@ -774,7 +774,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6sh122Pants_Winter"><!-- You can return this to the spawn -->
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>10800</restock>
         <min>1</min>
@@ -786,7 +786,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6sh122Jacket_Syrian"><!-- You can return this to the spawn -->
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>10800</restock>
         <min>1</min>
@@ -798,7 +798,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6sh122Jacket_Syrian_EMR"><!-- You can return this to the spawn -->
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>10800</restock>
         <min>1</min>
@@ -1993,7 +1993,7 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_6sh122Pants_Spring"> 
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>10800</restock>
         <min>0</min>
@@ -2077,7 +2077,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6sh122Jacket_Spring">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
         <min>0</min>
