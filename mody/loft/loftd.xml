@@ -1379,7 +1379,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_slackerbag_orang">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>1</min>
@@ -1400,7 +1400,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_slackerbag_black">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>1</min>
@@ -1421,7 +1421,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_slackerbag_br">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>1</min>
@@ -1442,7 +1442,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_slackerbag_haki">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>1</min>
@@ -1463,7 +1463,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_slackerbag_salat">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>1</min>
@@ -2013,7 +2013,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_IronsightHat_antenna">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>0</min>
@@ -2029,7 +2029,7 @@
     <usage name="Firefighter" />
   </type>
   <type name="Loftd_IronsightHat_alligator">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>0</min>
@@ -2045,7 +2045,7 @@
     <usage name="Firefighter" />
   </type>
   <type name="Loftd_IronsightHat_desert">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>0</min>
@@ -2061,7 +2061,7 @@
     <usage name="Firefighter" />
   </type>
   <type name="Loftd_IronsightHat_digital">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>0</min>
@@ -2077,7 +2077,7 @@
     <usage name="Firefighter" />
   </type>
   <type name="Loftd_IronsightHat_pub">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>0</min>
@@ -2093,7 +2093,7 @@
     <usage name="Firefighter" />
   </type>
   <type name="Loftd_IronsightHat_snake">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>0</min>
@@ -2109,7 +2109,7 @@
     <usage name="Firefighter" />
   </type>
   <type name="Loftd_IronsightHat_tiger">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>0</min>
@@ -2125,7 +2125,7 @@
     <usage name="Firefighter" />
   </type>
   <type name="Loftd_IronsightHat_woodland">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>0</min>
@@ -2141,7 +2141,7 @@
     <usage name="Firefighter" />
   </type>
   <type name="Loftd_IronsightHat_za">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>0</min>
@@ -2157,7 +2157,7 @@
     <usage name="Firefighter" />
   </type>
   <type name="Loftd_IronsightHat_zulu">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>0</min>
@@ -3830,10 +3830,10 @@
     <usage name="School" />
   </type>
   <type name="Loftd_combatboots">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3941,10 +3941,10 @@
     <usage name="School" />
   </type>
   <type name="Loftd_adidasjacket">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3963,10 +3963,10 @@
     <usage name="School" />
   </type>
   <type name="Loftd_adidasjacket_w">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
-    <min>1</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4455,7 +4455,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_leatherjacket">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>1</min>
@@ -4477,7 +4477,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_leatherjacketW">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>1</min>
@@ -9073,7 +9073,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_toolbelt">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>1</min>
@@ -9744,10 +9744,10 @@
     <usage name="Military" />
   </type>
   <type name="Loftd_CHRSAT_boots">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -9756,7 +9756,7 @@
     <usage name="Military" />
   </type>
   <type name="Loftd_CHRSAT_gloves">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>1</min>
@@ -9938,7 +9938,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_akito_jacket">
-    <nominal>3</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>1</min>
@@ -9954,7 +9954,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_akito_jacket_green">
-    <nominal>3</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>1</min>
@@ -9970,7 +9970,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_akito_jacket_black">
-    <nominal>3</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>1</min>
@@ -9986,7 +9986,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_akito_pants">
-    <nominal>3</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>1</min>
@@ -10002,7 +10002,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_akito_pants_green">
-    <nominal>3</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>1</min>
@@ -10018,7 +10018,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_akito_pants_black">
-    <nominal>3</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>1</min>
@@ -10034,10 +10034,10 @@
     <usage name="School" />
   </type>
   <type name="Loftd_akito_shoes">
-    <nominal>3</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10050,10 +10050,10 @@
     <usage name="School" />
   </type>
   <type name="Loftd_akito_shoes_dark">
-    <nominal>3</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10066,7 +10066,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_weaponbelt">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>1</min>
@@ -11744,7 +11744,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_Michonnebelt">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>1</min>
@@ -11983,7 +11983,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_akito_bag">
-    <nominal>4</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>1</min>
@@ -11999,7 +11999,7 @@
     <usage name="Hunting" />
   </type>
   <type name="Loftd_akito_bag_black">
-    <nominal>4</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>1</min>
@@ -12120,7 +12120,7 @@
     <usage name="Military" />
   </type>
   <type name="Loftd_ironsighttacticalglasses">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>0</min>
@@ -12736,7 +12736,7 @@
   </type>
 
   <type name="Loftd_weaponbelt_green">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>0</min>
@@ -12753,7 +12753,7 @@
     <usage name="Hunting" />
   </type>
   <type name="Loftd_weaponbelt_dark">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>0</min>
@@ -12770,7 +12770,7 @@
     <usage name="Hunting" />
   </type>
   <type name="Loftd_weaponbelt_leatherblack">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>1</min>
@@ -12787,7 +12787,7 @@
     <usage name="Hunting" />
   </type>
   <type name="Loftd_weaponbelt_leatherbrown">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>1</min>
@@ -12804,7 +12804,7 @@
     <usage name="Hunting" />
   </type>
   <type name="Loftd_weaponbelt_leatheruzor">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>1</min>
@@ -13019,7 +13019,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_arafatka"> 
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>0</min>
@@ -13041,7 +13041,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_arafatka_black"> 
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>0</min>
@@ -13063,7 +13063,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_arafatka_desert"> 
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>0</min>
@@ -13085,7 +13085,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_arafatka_gray"> 
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>0</min>
@@ -13107,7 +13107,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_arafatka_green"> 
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>0</min>
@@ -13129,7 +13129,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_arafatka_haki"> 
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>0</min>
@@ -13151,7 +13151,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_arafatka_red"> 
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>0</min>
@@ -13173,7 +13173,7 @@
     <usage name="School" />
   </type>
   <type name="Loftd_arafatka_blue"> 
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
     <min>0</min>
