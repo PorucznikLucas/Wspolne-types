@@ -1033,7 +1033,7 @@
         <usage name="Military"/>
     </type>
     <type name="tacvest_mung">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>1</min>
