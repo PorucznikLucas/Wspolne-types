@@ -15860,10 +15860,10 @@
     <value name="Tier3"/>
   </type>
   <type name="SSG82">
-    <nominal>5</nominal>
+    <nominal>7</nominal>
     <lifetime>14400</lifetime>
     <restock>1800</restock>
-    <min>1</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -16143,10 +16143,10 @@
     <category name="weapons"/>
   </type>
   <type name="Scout">
-    <nominal>3</nominal>
+    <nominal>5</nominal>
     <lifetime>28800</lifetime>
     <restock>1800</restock>
-    <min>1</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
