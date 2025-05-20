@@ -226,7 +226,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_big_drawer_cabinet_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>57600</restock>
         <min>0</min>
@@ -245,7 +245,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_big_drawer_cabinet_darkwood_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>57600</restock>
         <min>0</min>
@@ -340,7 +340,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_toolbench_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>57600</restock>
         <min>0</min>
@@ -357,7 +357,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_tools_drawer_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>57600</restock>
         <min>0</min>
@@ -374,7 +374,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_fridge_twodoor_old_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>57600</restock>
         <min>0</min>
@@ -392,7 +392,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_jd_fridge_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>100000</restock>
         <min>0</min>
@@ -410,7 +410,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_retro_fridge_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>57600</restock>
         <min>0</min>
@@ -427,7 +427,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_greenhouse_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>57600</restock>
         <min>0</min>
@@ -446,7 +446,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_greenhouse_big_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>57600</restock>
         <min>0</min>
@@ -465,7 +465,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_gunwall_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>57600</restock>
         <min>0</min>
@@ -483,7 +483,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_gunwall_nostand_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>57600</restock>
         <min>0</min>
@@ -501,7 +501,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_gunrack_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>57600</restock>
         <min>0</min>
@@ -519,7 +519,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_mesh_locker_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>60000</restock>
         <min>0</min>
@@ -537,7 +537,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>	
 	<type name="rag_baseitems_military_locker_big_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>57600</restock>
         <min>0</min>
@@ -554,7 +554,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_military_locker_small_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
         <min>0</min>
@@ -572,7 +572,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_single_locker_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>57600</restock>
         <min>0</min>
@@ -591,7 +591,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_single_locker_black_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>24000</restock>
         <min>0</min>
@@ -610,7 +610,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_single_locker_green_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>24000</restock>
         <min>0</min>
@@ -628,7 +628,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_single_locker_purple_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>24000</restock>
         <min>0</min>
@@ -646,7 +646,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_single_locker_red_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>24000</restock>
         <min>0</min>
@@ -665,7 +665,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_single_locker_yellow_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>24000</restock>
         <min>0</min>
@@ -684,7 +684,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_triple_locker_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>60000</restock>
         <min>0</min>
@@ -703,7 +703,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_triple_locker_black_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>60000</restock>
         <min>0</min>
@@ -722,7 +722,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_triple_locker_green_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>60000</restock>
         <min>0</min>
@@ -740,7 +740,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_triple_locker_purple_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>60000</restock>
         <min>0</min>
@@ -758,7 +758,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_triple_locker_red_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>60000</restock>
         <min>0</min>
@@ -777,7 +777,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_triple_locker_yellow_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>60000</restock>
         <min>0</min>
@@ -812,7 +812,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_firstaid_cabinet_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>24000</restock>
         <min>0</min>
@@ -830,7 +830,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_medic_box_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>60000</restock>
         <min>0</min>
@@ -890,7 +890,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Office"/>
+	<usage name="Office"/>
         <usage name="School"/>
     </type>
 	<type name="rag_baseitems_grammophone_2_disk">
@@ -942,7 +942,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Office"/>
+	<usage name="Office"/>
         <usage name="School"/>
     </type>
 	<type name="rag_baseitems_grammophone">
@@ -1318,7 +1318,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_small_iron_safe_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>30000</restock>
         <min>0</min>
@@ -1500,8 +1500,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="School"/>
-		<usage name="Coast"/>
+	<usage name="School"/>
+	<usage name="Coast"/>
     </type>
 	<type name="rag_baseitems_small_pool_green">
         <lifetime>1209600</lifetime>
@@ -1552,8 +1552,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="School"/>
-		<usage name="Coast"/>
+	<usage name="School"/>
+	<usage name="Coast"/>
     </type>
 	<type name="rag_baseitems_small_pool_yellow">
         <lifetime>1209600</lifetime>
@@ -1569,15 +1569,15 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="School"/>
-		<usage name="Coast"/>
+	<usage name="School"/>
+	<usage name="Coast"/>
     </type>
 	<type name="rag_baseitems_small_pool_rainbow">
         <lifetime>1209600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_wardrobe_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>30000</restock>
         <min>0</min>
@@ -1598,7 +1598,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_woodenshelf_big_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>30000</restock>
         <min>0</min>
@@ -1619,7 +1619,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_woodenshelf_lightwood_big_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>30000</restock>
         <min>0</min>
@@ -1640,7 +1640,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_woodenshelf_small_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>30000</restock>
         <min>0</min>
@@ -1742,7 +1742,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_small_safe_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>30000</restock>
         <min>0</min>
@@ -1882,7 +1882,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_gun_cabinet_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>25000</restock>
         <min>0</min>
@@ -1936,8 +1936,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Industrial"/>
-		<usage name="Farm"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
@@ -1955,8 +1955,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Industrial"/>
-		<usage name="Farm"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
@@ -1974,8 +1974,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Industrial"/>
-		<usage name="Farm"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
@@ -1993,8 +1993,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Industrial"/>
-		<usage name="Farm"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
@@ -2012,8 +2012,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Industrial"/>
-		<usage name="Farm"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
@@ -2031,8 +2031,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Industrial"/>
-		<usage name="Farm"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
@@ -2089,7 +2089,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_antique_dresser_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>30000</restock>
         <min>0</min>
@@ -2158,7 +2158,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_planterbox_high_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>30000</restock>
         <min>0</min>
@@ -2177,7 +2177,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_planterbox_low_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>30000</restock>
         <min>0</min>
@@ -2196,7 +2196,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_plant_rack_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>30000</restock>
         <min>0</min>
@@ -2318,12 +2318,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Farm"/>
+	<usage name="Farm"/>
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
 	<type name="rag_baseitems_manikin_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>30000</restock>
         <min>0</min>
@@ -2749,7 +2749,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_teddyshelf_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>70000</restock>
         <min>0</min>
@@ -2768,7 +2768,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_teddybear">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
         <min>0</min>
@@ -2985,7 +2985,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_catears">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
         <min>0</min>
@@ -3064,7 +3064,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_log_holder_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>20000</restock>
         <min>0</min>
@@ -3081,7 +3081,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_plank_holder_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>20000</restock>
         <min>0</min>
@@ -3140,7 +3140,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="rag_baseitems_firstaid_cabinet_big_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>35000</restock>
         <min>0</min>
@@ -3279,7 +3279,7 @@
     </type>
 	<!-- CHRISTMAS END -->
 	<type name="rag_baseitems_medium_safe_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>36000</restock>
         <min>0</min>
@@ -3440,7 +3440,7 @@
     </type>
 	<!-- Added 15.10.2024 (Dayz 1.26 Patch Day) -->
 	<type name="rag_baseitems_pistol_cabinet_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>40000</restock>
         <min>01</min>
