@@ -2,7 +2,7 @@
 <types>
     <!-- TERJE SALVES -->
     <type name="TerjeSalveFinalgon">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -17,7 +17,7 @@
         <usage name="Medic"/>
     </type>
     <type name="TerjeSalveCapsicum">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -32,7 +32,7 @@
 	<usage name="Medic"/>
     </type>
     <type name="TerjeSalveViprosal">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -49,7 +49,7 @@
 
     <!-- TERJE PILLS -->
     <type name="TerjePillsMagnesiumSulfate">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -64,7 +64,7 @@
 	<usage name="Medic"/>
     </type>
     <type name="TerjePillsAdepress">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -171,7 +171,7 @@
         <usage name="Medic"/>
     </type>
     <type name="TerjeAmpouleAdrenalin">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -351,7 +351,7 @@
     
     <!-- TERJE FIRST AID KITS -->
     <type name="TerjeFirstAidKitAdvance_Black">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>18000</restock>
         <min>1</min>
@@ -366,7 +366,7 @@
         <usage name="Military"/>
     </type>
     <type name="TerjeFirstAidKitAdvance_Brown">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>18000</restock>
         <min>1</min>
@@ -381,7 +381,7 @@
         <usage name="Military"/>
     </type>
     <type name="TerjeFirstAidKitAdvance_Green">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>18000</restock>
         <min>0</min>
@@ -396,7 +396,7 @@
         <usage name="Military"/>
     </type>
     <type name="TerjeFirstAidKitAdvance_Camo">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>18000</restock>
         <min>0</min>
@@ -411,7 +411,7 @@
         <usage name="Military"/>
     </type>
     <type name="TerjeFirstAidKitIndividual_Black">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>18000</restock>
         <min>0</min>
@@ -426,7 +426,7 @@
         <usage name="Military"/>
     </type>
     <type name="TerjeFirstAidKitIndividual_Brown">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>18000</restock>
         <min>0</min>
@@ -441,7 +441,7 @@
         <usage name="Military"/>
     </type>
     <type name="TerjeFirstAidKitIndividual_Green">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>18000</restock>
         <min>0</min>
@@ -456,7 +456,7 @@
         <usage name="Military"/>
     </type>
     <type name="TerjeFirstAidKitIndividual_Camo">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>18000</restock>
         <min>0</min>
@@ -518,7 +518,7 @@
         <usage name="Medic"/>
     </type>
     <type name="TerjeSyringeEmpty">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>18000</restock>
         <min>0</min>
@@ -564,7 +564,7 @@
         <usage name="Medic"/>
     </type>
     <type name="TerjeSurgicalTool_White">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>7200</restock>
         <min>0</min>
@@ -579,7 +579,7 @@
         <usage name="Medic"/>
     </type>
     <type name="TerjeSurgicalTool_Ceramic">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>7200</restock>
         <min>0</min>
