@@ -51,10 +51,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="jaakari_simple_tan_mung">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -222,34 +222,6 @@
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-    </type name="riflesling_colorbase_mung">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-        <usage name="Village"/>
-    </type>
-    <type name="riflesling_black_mung">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-        <usage name="Village"/>
-    </type> -->
     <type name="thermos_mung">
         <nominal>3</nominal>
         <lifetime>7200</lifetime>
@@ -617,10 +589,10 @@
         <usage name="Village"/>
     </type>
     <type name="shawl_yellow_mung">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -631,10 +603,10 @@
         <usage name="Village"/>
     </type>
     <type name="shawl_red_mung">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -645,10 +617,10 @@
         <usage name="Village"/>
     </type>
     <type name="shawl_templar_mung">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -659,10 +631,10 @@
         <usage name="Village"/>
     </type>
     <type name="shawl_palestini_mung">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -673,10 +645,10 @@
         <usage name="Village"/>
     </type>
     <type name="shawl_black_mung">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -687,10 +659,10 @@
         <usage name="Village"/>
     </type>
     <type name="shawl_floral_mung">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -797,10 +769,10 @@
         <usage name="Military"/>
     </type>
     <type name="lebedev_PL15_mung">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -809,10 +781,10 @@
         <usage name="Military"/>
     </type>
     <type name="Mag_lebedev_PL15_16Rnd">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -821,7 +793,7 @@
         <usage name="Military"/>
     </type>
     <type name="carrierrig_mung">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>21600</lifetime>
         <restock>21600</restock>
         <min>0</min>
@@ -869,10 +841,10 @@
         <usage name="Hunting"/>
     </type>
 	<type name="rifleholster_black_mung">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -881,10 +853,10 @@
         <usage name="Military"/>
     </type>
     <type name="rifleholster_tan_mung">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -893,10 +865,10 @@
         <usage name="Military"/>
     </type>
     <type name="rifleholster_snow_mung">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -905,10 +877,10 @@
         <usage name="Military"/>
     </type>
     <type name="rifleholster_TTsKO_mung">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -929,10 +901,10 @@
         <usage name="Military"/>
     </type>
     <type name="Leupold_mung">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -993,10 +965,10 @@
         <usage name="Military"/>
     </type>
 	<type name="rifleholster_camo_mung">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1017,10 +989,10 @@
         <usage name="Military"/>
     </type>
 	<type name="rifleholster_camo_ucp_mung">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1093,10 +1065,10 @@
         <usage name="Village"/>
     </type>
     <type name="cricket_bat_mung">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1135,10 +1107,10 @@
         <usage name="Village"/>
     </type>
 	<type name="RollingPapers_Jest">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1163,10 +1135,10 @@
         <usage name="Village"/>
     </type>
 	<type name="joint_mung">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1177,10 +1149,10 @@
         <usage name="Village"/>
     </type>
 	<type name="cigarette_mung">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1191,10 +1163,10 @@
         <usage name="Village"/>
     </type>
 	<type name="cigar_mung">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1233,7 +1205,7 @@
         <usage name="Village"/>
     </type>
 	<type name="Vesuri_mung">
-        <nominal>2</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1251,7 +1223,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 	<type name="sherlockpipe_mung">
-        <nominal>2</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1327,10 +1299,10 @@
         <usage name="Military"/>
     </type>
 	<type name="pickles_closed">
-        <nominal>6</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1355,7 +1327,7 @@
         <usage name="Village"/>
     </type>
     <type name="fannypack_pink_mung">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1368,7 +1340,7 @@
         <usage name="Village"/>
     </type>
 	<type name="fannypack_black_mung">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1381,7 +1353,7 @@
         <usage name="Village"/>
     </type>
 	<type name="fannypack_camo_mung">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1394,7 +1366,7 @@
         <usage name="Village"/>
     </type>
 	<type name="fannypack_multi_mung">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1605,10 +1577,10 @@
         <usage name="Military"/>
     </type>
     <type name="maglite_mung">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1770,10 +1742,10 @@
         <value name="Tier4"/>
     </type>
     <type name="wonderbread_mung">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
