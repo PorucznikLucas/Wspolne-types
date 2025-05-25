@@ -1236,7 +1236,6 @@
     <category name="weapons"/>
     <usage name="Military"/>
     <usage name="Police"/>
-    <usage name="Medic"/>
     <usage name="Firefighter"/>
     <usage name="Coast"/>
   </type>
@@ -1252,7 +1251,6 @@
     <category name="weapons"/>
     <usage name="Military"/>
     <usage name="Police"/>
-    <usage name="Medic"/>
     <usage name="Firefighter"/>
     <usage name="Coast"/>
   </type>
@@ -1268,7 +1266,6 @@
     <category name="weapons"/>
     <usage name="Military"/>
     <usage name="Police"/>
-    <usage name="Medic"/>
     <usage name="Firefighter"/>
     <usage name="Coast"/>
   </type>
@@ -1284,7 +1281,6 @@
     <category name="weapons"/>
     <usage name="Military"/>
     <usage name="Police"/>
-    <usage name="Medic"/>
     <usage name="Firefighter"/>
     <usage name="Coast"/>
   </type>
@@ -7447,7 +7443,6 @@
     <category name="weapons"/>
     <usage name="Military"/>
     <usage name="Police"/>
-    <usage name="Medic"/>
     <usage name="Firefighter"/>
     <usage name="Coast"/>
   </type>
@@ -9316,9 +9311,6 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="tools"/>
-    <tag name="shelves"/>
-    <usage name="Hunting"/>
-    <value name="Medic"/>
   </type>
   <type name="HighCapacityVest_Black">
     <nominal>2</nominal>
@@ -18558,7 +18550,6 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="tools"/>
-    <usage name="Medic"/>
     <usage name="Town"/>
     <usage name="Village"/>
   </type>
