@@ -634,7 +634,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6B23_112Vest_GFlora_Syrian"><!-- Craftable version -->
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -646,7 +646,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6B23_112Vest_EMR_Syrian"><!-- Craftable version -->
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -721,7 +721,7 @@
     <!-- POUCHES --> 
 
     <type name="TF_6B43MagPouch_Syrian"><!-- You can return this to the spawn -->
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>10800</restock>
         <min>0</min>
@@ -734,7 +734,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6B43GrenPouch_Syrian"><!-- You can return this to the spawn -->
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>10800</restock>
         <min>0</min>
@@ -812,8 +812,8 @@
     <type name="TF_6sh122Jacket_Winter"><!-- You can return this to the spawn -->
         <nominal>3</nominal>
         <lifetime>14400</lifetime>
-        <restock>10800</restock>
-        <min>1</min>
+        <restock>1000</restock>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2005,7 +2005,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6sh122Pants_Autumn">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>10800</restock>
         <min>0</min>
@@ -2019,8 +2019,8 @@
     <type name="TF_CargoPantsShort_Black">
         <nominal>3</nominal>
         <lifetime>14400</lifetime>
-        <restock>10800</restock>
-        <min>1</min>
+        <restock>1000</restock>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2031,8 +2031,8 @@
     <type name="TF_CargoPantsShort_MARPAT">
         <nominal>3</nominal>
         <lifetime>14400</lifetime>
-        <restock>10800</restock>
-        <min>1</min>
+        <restock>1000</restock>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2041,7 +2041,7 @@
         <usage name="Town"/>
     </type>
     <type name="TF_G3CombatPants_RG">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>10800</restock>
         <min>0</min>
@@ -2053,7 +2053,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_G3CombatPants_MC">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>10800</restock>
         <min>0</min>
@@ -2065,7 +2065,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_G3CombatPants_WD">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -2104,7 +2104,7 @@
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2116,7 +2116,7 @@
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2128,7 +2128,7 @@
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2140,7 +2140,7 @@
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2372,8 +2372,8 @@
     <type name="TF_VPO190">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
+        <restock>1000</restock>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2563,10 +2563,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="TF_Mag_MP443_18Rnd">
-        <nominal>5</nominal>
+        <nominal>6</nominal>
         <lifetime>28800</lifetime>
-        <restock>10800</restock>
-        <min>1</min>
+        <restock>1000</restock>
+        <min>2</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -2577,10 +2577,10 @@
         <value name="Tier3"/>
     </type>
     <type name="TF_Mag_VPO190_4Rnd">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
-        <restock>10800</restock>
-        <min>1</min>
+        <restock>1000</restock>
+        <min>2</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -2599,7 +2599,7 @@
     <type name="TF_AK_6kh5Bayonet"><!-- Does not work with vanilla AK--> 
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
-        <restock>10800</restock>
+        <restock>1000</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2611,7 +2611,7 @@
         <value name="Tier3"/>
     </type>
     <type name="TF_6kh5KnifeSheath">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>10800</restock>
         <min>0</min>
@@ -2674,10 +2674,10 @@
     <!-- 29.12.2021 Fixed classname--> 
 
     <type name="TF_MICH2000Helmet_Khaku">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
+        <restock>2000</restock>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2692,9 +2692,9 @@
      <!-- 23.11.2021 -->
 
     <type name="TF_MICH2000Helmet_Black">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
-        <restock>14400</restock>
+        <restock>2000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
