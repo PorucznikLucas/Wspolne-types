@@ -124,7 +124,7 @@
 		<usage name="Military"/>
 	</type>
 	<type name="TerjeImprovisedSyringeEmpty">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>14400</lifetime>
 		<restock>7200</restock>
 		<min>0</min>
@@ -228,7 +228,7 @@
 
 	<!-- TERJE PILLS -->
 	<type name="TerjePillsAnalgin">
-		<nominal>3</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
 		<min>1</min>
@@ -243,7 +243,7 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsNimesulid">
-		<nominal>3</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
 		<min>1</min>
@@ -258,7 +258,7 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsParacetamol">
-		<nominal>3</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
 		<min>1</min>
@@ -273,7 +273,7 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsIbuprofen">
-		<nominal>3</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
 		<min>1</min>
@@ -288,7 +288,7 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsNurofen">
-		<nominal>3</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
 		<min>1</min>
@@ -303,7 +303,7 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsAmoxiclav">
-		<nominal>3</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
 		<min>1</min>
@@ -318,7 +318,7 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsPiperacylin">
-		<nominal>3</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
 		<min>1</min>
@@ -333,7 +333,7 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsAmibaktam">
-		<nominal>3</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
 		<min>1</min>
@@ -348,7 +348,7 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsPolisorb">
-		<nominal>3</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
 		<min>1</min>
@@ -363,7 +363,7 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsMesalazin">
-		<nominal>3</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
 		<min>1</min>
@@ -378,7 +378,7 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsFtalazol">
-		<nominal>3</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
 		<min>1</min>
@@ -393,7 +393,7 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsNoopept">
-		<nominal>3</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
 		<min>1</min>
@@ -408,7 +408,7 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsVikasol">
-		<nominal>3</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
 		<min>1</min>
@@ -423,7 +423,7 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsIrovit">
-		<nominal>3</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
 		<min>1</min>
@@ -438,7 +438,7 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsAgteminol">
-		<nominal>3</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
 		<min>1</min>
@@ -453,7 +453,7 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsVenlafaxine">
-		<nominal>3</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
 		<min>1</min>
@@ -468,7 +468,7 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjePillsRombiopental">
-		<nominal>3</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
 		<min>1</min>
@@ -635,10 +635,10 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeAmpouleRifampicyne">
-		<nominal>4</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
-		<min>2</min>
+		<min>1</min>
 		<quantmin>20</quantmin>
 		<quantmax>100</quantmax>
 		<cost>100</cost>
@@ -708,7 +708,7 @@
 		<category name="tools"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
-        <tag name="floor"/>
+                <tag name="floor"/>
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeInjectorStomaproxidal">
