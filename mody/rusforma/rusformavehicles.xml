@@ -3061,211 +3061,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="vehiclesparts"/>
 		<usage name="Industrial"/>
-	</type>
-	<type name="UAZ_3163_doors_codriver_MCHS">
-		<nominal>0</nominal>
-		<lifetime>3600</lifetime>
-		<restock>1800</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="vehiclesparts"/>
-		<usage name="Industrial"/>
-	</type>
-	<type name="UAZ_3163_doors_cargo1_MCHS">
-		<nominal>0</nominal>
-		<lifetime>3600</lifetime>
-		<restock>1800</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="vehiclesparts"/>
-		<usage name="Industrial"/>
-	</type>
-	<type name="UAZ_3163_doors_cargo2_MCHS">
-		<nominal>0</nominal>
-		<lifetime>3600</lifetime>
-		<restock>1800</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="vehiclesparts"/>
-		<usage name="Industrial"/>
-	</type>
-	<type name="UAZ_3163_doors_hood_MCHS">
-		<nominal>0</nominal>
-		<lifetime>3600</lifetime>
-		<restock>1800</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="vehiclesparts"/>
-		<usage name="Industrial"/>
-	</type>
-	<type name="UAZ_3163_doors_trunk_MCHS">
-		<nominal>0</nominal>
-		<lifetime>3600</lifetime>
-		<restock>1800</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="vehiclesparts"/>
-		<usage name="Industrial"/>
-	</type>
-	<type name="UAZ_3163_doors_driver_VP">
-		<nominal>0</nominal>
-		<lifetime>3600</lifetime>
-		<restock>1800</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="vehiclesparts"/>
-		<usage name="Industrial"/>
-	</type>
-	<type name="UAZ_3163_doors_codriver_VP">
-		<nominal>0</nominal>
-		<lifetime>3600</lifetime>
-		<restock>1800</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="vehiclesparts"/>
-		<usage name="Industrial"/>
-	</type>
-	<type name="UAZ_3163_doors_cargo1_VP">
-		<nominal>0</nominal>
-		<lifetime>3600</lifetime>
-		<restock>1800</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="vehiclesparts"/>
-		<usage name="Industrial"/>
-	</type>
-	<type name="UAZ_3163_doors_cargo2_VP">
-		<nominal>0</nominal>
-		<lifetime>3600</lifetime>
-		<restock>1800</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="vehiclesparts"/>
-		<usage name="Industrial"/>
-	</type>
-	<type name="UAZ_3163_doors_hood_VP">
-		<nominal>0</nominal>
-		<lifetime>3600</lifetime>
-		<restock>1800</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="vehiclesparts"/>
-		<usage name="Industrial"/>
-	</type>
-	<type name="UAZ_3163_doors_trunk_VP">
-		<nominal>0</nominal>
-		<lifetime>3600</lifetime>
-		<restock>1800</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="vehiclesparts"/>
-		<usage name="Industrial"/>
-	</type>
-	<type name="UAZ_3163_doors_driver_emergency_service">
-		<nominal>0</nominal>
-		<lifetime>3600</lifetime>
-		<restock>1800</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="vehiclesparts"/>
-		<usage name="Industrial"/>
-	</type>
-	<type name="UAZ_3163_doors_codriver_emergency_service">
-		<nominal>0</nominal>
-		<lifetime>3600</lifetime>
-		<restock>1800</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="vehiclesparts"/>
-		<usage name="Industrial"/>
-	</type>
-	<type name="UAZ_3163_doors_cargo1_emergency_service">
-		<nominal>0</nominal>
-		<lifetime>3600</lifetime>
-		<restock>1800</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="vehiclesparts"/>
-		<usage name="Industrial"/>
-	</type>
-	<type name="UAZ_3163_doors_cargo2_emergency_service">
-		<nominal>0</nominal>
-		<lifetime>3600</lifetime>
-		<restock>1800</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="vehiclesparts"/>
-		<usage name="Industrial"/>
-	</type>
-	<type name="UAZ_3163_doors_hood_emergency_service">
-		<nominal>0</nominal>
-		<lifetime>3600</lifetime>
-		<restock>1800</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="vehiclesparts"/>
-		<usage name="Industrial"/>
-	</type>
-	<type name="UAZ_3163_doors_trunk_emergency_service">
-		<nominal>0</nominal>
-		<lifetime>3600</lifetime>
-		<restock>1800</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="vehiclesparts"/>
-		<usage name="Industrial"/>
-	</type>
+        </type>
 	<type name="tractor_UMZ_RUS_wheel">
 		<nominal>0</nominal>
 		<lifetime>3600</lifetime>
@@ -3733,18 +3529,6 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="vehiclesparts"/>
 		<usage name="Industrial"/>
-	</type>	
-	<type name="UAZ_469_milicia_wheel ">
-		<nominal>0</nominal>
-		<lifetime>3600</lifetime>
-		<restock>1800</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="vehiclesparts"/>
-		<usage name="Industrial"/>
 	</type>
 	<type name="UAZ_469_milicia_doors_driver">
 		<nominal>0</nominal>
@@ -3759,18 +3543,6 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="UAZ_469_milicia_doors_codriver">
-		<nominal>0</nominal>
-		<lifetime>3600</lifetime>
-		<restock>1800</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="vehiclesparts"/>
-		<usage name="Industrial"/>
-	</type>
-	<type name="UAZ_469_milicia_doors_cargo1	">
 		<nominal>0</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
@@ -4431,18 +4203,6 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="UAZ_27722_mchs_doors_cargo2">
-		<nominal>0</nominal>
-		<lifetime>3600</lifetime>
-		<restock>1800</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="vehiclesparts"/>
-		<usage name="Industrial"/>
-	</type>
-	<type name="UAZ_27722_mchs_doors_cargo2_ambulancia">
 		<nominal>0</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
