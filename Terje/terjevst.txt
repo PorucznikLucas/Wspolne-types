@@ -7,25 +7,25 @@ Medicine.EnableMaskDrop = true;                             // [type: bool; defa
 
 // Viscera (internal organs wound) settings
 Medicine.VisceraEnabled = true;                             // [type: bool; default: true] The parameter determines whether viscera wound is enabled on the server or not.
-Medicine.VisceraHealthLose = 0.06;                          // [type: float; default: 0.1] The amount of health that a player loses every second when viscera (internal organs) are damaged.
+Medicine.VisceraHealthLose = 0.08;                          // [type: float; default: 0.1] The amount of health that a player loses every second when viscera (internal organs) are damaged.
 Medicine.VisceraBloodLose = 4;                              // [type: float; default: 5] The amount of blood that a player loses every second when viscera (internal organs) are damaged.
 Medicine.VisceraSymptonPeriod = 5;                          // [type: float; default: 2.5] The period of time inseconds between symptoms of bloody cough due to damage to internal organs.
 Medicine.VisceraSuturesMin = 1;                             // [type: int; default: 1] How many sutures will a player have after internal surgery (Minumum integer number).
 Medicine.VisceraSuturesMax = 2;                             // [type: int; default: 3] How many sutures will a player have after internal surgery (Maximum integer number).
 Medicine.VisceraSurgFailedHealthLose = 10;                  // [type: float; default: 10] The amount of health that a player lose after failed surgery operation on viscera (internal organs).
-Medicine.VisceraSurgFailedBloodLose = 150;                  // [type: float; default: 200] The amount of blood that a player lose after failed surgery operation on viscera (internal organs).
+Medicine.VisceraSurgFailedBloodLose = 160;                  // [type: float; default: 200] The amount of blood that a player lose after failed surgery operation on viscera (internal organs).
 Medicine.VisceraSurgFailedShockLose = 50;                   // [type: float; default: 90] The amount of shock that a player lose after failed surgery operation on viscera (internal organs).
 Medicine.VisceraForceSurgeryPain = 3.5;                       // [type: float; default: 4.5] The level of pain a player will take during a surgical operation on viscera (internal organs).
 
 // Stubs (wounds with heavy bleeding) settings
 Medicine.StubsEnabled = true;                               // [type: bool; default: true] The parameter determines whether stub wounds is enabled on the server or not.
 Medicine.StubsHealthLose = 0.01;                            // [type: float; default: 0.01] The amount of health that a player loses every second when has heavy bleed (stub wounds).
-Medicine.StubsBloodLose = 5;                                // [type: float; default: 12] The amount of blood that a player loses every second when has heavy bleed (stub wounds).
+Medicine.StubsBloodLose = 8;                                // [type: float; default: 12] The amount of blood that a player loses every second when has heavy bleed (stub wounds).
 Medicine.StubsSuturesMin = 1;                               // [type: int; default: 1] How many sutures will a player have after stub surgery (Minumum integer number).
 Medicine.StubsSuturesMax = 1;                               // [type: int; default: 1] How many sutures will a player have after stub surgery (Maximum integer number).
 Medicine.StubsSurgFailedHealthLose = 1;                     // [type: float; default: 0] The amount of health that a player lose after failed stub surgery.
-Medicine.StubsSurgFailedBloodLose = 10;                     // [type: float; default: 0] The amount of blood that a player lose after failed stub surgery.
-Medicine.StubsSurgFailedShockLose = 20;                     // [type: float; default: 40] The amount of shock that a player lose after failed stub surgery.
+Medicine.StubsSurgFailedBloodLose = 4;                     // [type: float; default: 0] The amount of blood that a player lose after failed stub surgery.
+Medicine.StubsSurgFailedShockLose = 25;                     // [type: float; default: 40] The amount of shock that a player lose after failed stub surgery.
 Medicine.StubsForceSurgeryPain = 2;                         // [type: float; default: 2.5] The level of pain a player will take during a surgical operation on stub wound.
 
 // Bullets (wounds with bullets inside the body) settings
@@ -34,34 +34,34 @@ Medicine.BulletsHealthLose = 0.01;                          // [type: float; def
 Medicine.BulletsBloodLose = 0.4;                            // [type: float; default: 0.5] The amount of blood that a player loses every second when has bullet inside the body.
 Medicine.BulletsSuturesMin = 1;                             // [type: int; default: 1] How many sutures will a player have after bullet remove surgery if stub is closed (Minumum integer number).
 Medicine.BulletsSuturesMax = 1;                             // [type: int; default: 1] How many sutures will a player have after bullet remove surgery if stub is closed (Maximum integer number).
-Medicine.BulletsSurgFailedHealthLose = 0.2;                 // [type: float; default: 0] The amount of health that a player lose after failed bullet remove surgery.
-Medicine.BulletsSurgFailedBloodLose = 80;                   // [type: float; default: 100] The amount of blood that a player lose after failed bullet remove surgery.
-Medicine.BulletsSurgFailedShockLose = 40;                   // [type: float; default: 60] The amount of shock that a player lose after failed bullet remove surgery.
+Medicine.BulletsSurgFailedHealthLose = 0.3;                 // [type: float; default: 0] The amount of health that a player lose after failed bullet remove surgery.
+Medicine.BulletsSurgFailedBloodLose = 85;                   // [type: float; default: 100] The amount of blood that a player lose after failed bullet remove surgery.
+Medicine.BulletsSurgFailedShockLose = 45;                   // [type: float; default: 60] The amount of shock that a player lose after failed bullet remove surgery.
 Medicine.BulletsForceSurgeryPain = 2.5;                       // [type: float; default: 3.5] The level of pain a player will take during bullet remove surgery.
 
 // Bandages (common) settings
 Medicine.CleanBandagedWoundsHealthLose = 0;                 // [type: float; default: 0] The amount of health that a player loses every second when has clean bandaged wounds.
-Medicine.CleanBandagedWoundsBloodLose = 0.05;                // [type: float; default: 0.15] The amount of blood that a player loses every second when has clean bandaged wounds.
+Medicine.CleanBandagedWoundsBloodLose = 0.09;                // [type: float; default: 0.15] The amount of blood that a player loses every second when has clean bandaged wounds.
 Medicine.DirtyBandagedWoundsHealthLose = 0.02;              // [type: float; default: 0.04] The amount of health that a player loses every second when has dirty bandaged wounds.
 Medicine.DirtyBandagedWoundsBloodLose = 0.15;                // [type: float; default: 0.3] The amount of blood that a player loses every second when has dirty bandaged wounds.
-Medicine.DirtyBandageInfectionChance = 0.01;                // [type: float; default: 0.005] The chance of infection from a dirty bandage in the wound.
-Medicine.CleanToDirtyBandageTime = 400;                     // [type: float; default: 300] The time in seconds it takes for a bandage to become dirty. Use 0 to disable dirty bandages.
-Medicine.BandagedWoundsHealTime = 3000;                     // [type: float; default: 3400] The time in seconds it takes for a bandaged wound to automatically heal.
+Medicine.DirtyBandageInfectionChance = 0.008;                // [type: float; default: 0.005] The chance of infection from a dirty bandage in the wound.
+Medicine.CleanToDirtyBandageTime = 200;                     // [type: float; default: 300] The time in seconds it takes for a bandage to become dirty. Use 0 to disable dirty bandages.
+Medicine.BandagedWoundsHealTime = 2400;                     // [type: float; default: 3400] The time in seconds it takes for a bandaged wound to automatically heal.
 Medicine.DirtyBandageWoundsHealModifier = 0.25;             // [type: float; default: 0.25] A modifier that affects the healing time of a wound with a dirty bandage.
-Medicine.DirtyBandageInfectionTimeout = 240;                // [type: float; default: 180] The amount of time in seconds a player has to disinfect (clean or change) a bandage before infection is possible.
+Medicine.DirtyBandageInfectionTimeout = 120;                // [type: float; default: 180] The amount of time in seconds a player has to disinfect (clean or change) a bandage before infection is possible.
 Medicine.MedicineBandagingTimeMod = 1;                      // [type: float; default: 1] Sets the global time modifier for bandaging.
 
 // Sutures (common) settings
 Medicine.SuturesEnabled = true;                             // [type: bool; default: true] The parameter determines whether sutures is enabled on the server or not.
 Medicine.CleanSutureWoundsHealthLose = 0;                   // [type: float; default: 0] The amount of health that a player loses every second when has clean suture wounds.
 Medicine.CleanSutureWoundsBloodLose = 0;                    // [type: float; default: 0] The amount of blood that a player loses every second when has clean suture wounds.
-Medicine.DirtySutureWoundsHealthLose = 0.01;                // [type: float; default: 0.01] The amount of health that a player loses every second when has dirty suture wounds.
-Medicine.DirtySutureWoundsBloodLose = 0;                    // [type: float; default: 0] The amount of blood that a player loses every second when has dirty suture wounds.
-Medicine.DirtySutureInfectionChance = 0.03;                 // [type: float; default: 0.01] The chance of infection from a dirty suture in the wound.
-Medicine.CleanToDirtySutureTime = 400;                      // [type: float; default: 300] The time in seconds it takes for a suture to become dirty. Use 0 to disable dirty sutures.
-Medicine.SutureWoundsHealTime = 1400;                       // [type: float; default: 1800] The time in seconds it takes for a suture wound to automatically heal.
+Medicine.DirtySutureWoundsHealthLose = 0.02;                // [type: float; default: 0.01] The amount of health that a player loses every second when has dirty suture wounds.
+Medicine.DirtySutureWoundsBloodLose = 0.2;                    // [type: float; default: 0] The amount of blood that a player loses every second when has dirty suture wounds.
+Medicine.DirtySutureInfectionChance = 0.02;                 // [type: float; default: 0.01] The chance of infection from a dirty suture in the wound.
+Medicine.CleanToDirtySutureTime = 320;                      // [type: float; default: 300] The time in seconds it takes for a suture to become dirty. Use 0 to disable dirty sutures.
+Medicine.SutureWoundsHealTime = 1500;                       // [type: float; default: 1800] The time in seconds it takes for a suture wound to automatically heal.
 Medicine.DirtySutureWoundsHealModifier = 0.25;              // [type: float; default: 0.25] A modifier that affects the healing time of a wound with a dirty suture.
-Medicine.DirtySutureInfectionTimeout = 80;                  // [type: float; default: 60] The amount of time in seconds a player has to disinfect a suture before infection is possible.
+Medicine.DirtySutureInfectionTimeout = 60;                  // [type: float; default: 60] The amount of time in seconds a player has to disinfect a suture before infection is possible.
 
 // Sutures (bandaged) settings
 Medicine.CleanSutureBandagedWoundsHealthLose = 0;           // [type: float; default: 0] The amount of health that a player loses every second when has clean bandaged suture wounds.
@@ -93,9 +93,9 @@ Medicine.SurgerySepsisChanceDG = 0.7;                       // [type: float; def
 Medicine.SurgerySepsisModifier = 1;                         // [type: float; default: 1] There is a general modifier for GetInfectionChance function from ItemBase for surgery actions
 
 // Metabolism settings
-Medicine.LightBleedModifier = 0.25;                         // [type: float; default: 0.25] Modifier responsible for the intensity of light bleeding (vanilla cut).
+Medicine.LightBleedModifier = 0.30;                         // [type: float; default: 0.25] Modifier responsible for the intensity of light bleeding (vanilla cut).
 Medicine.BloodRegenCommonModifier = 0.1;                    // [type: float; default: 0.1] Modifier responsible for the intensity of common blood regeneration (without drugs).
-Medicine.BloodRegenMedsModifier = 1.5;                      // [type: float; default: 1] Modifier responsible for the intensity of blood regeneration caused by medical drugs.
+Medicine.BloodRegenMedsModifier = 1.2;                      // [type: float; default: 1] Modifier responsible for the intensity of blood regeneration caused by medical drugs.
 Medicine.WaterLowDamageModifier = 0.3;                      // [type: float; default: 0.2] Modifier responsible for the intensity of health damage when level of water is low.
 Medicine.EnergyLowDamageModifier = 0.3;                     // [type: float; default: 0.2] Modifier responsible for the intensity of health damage when level of energy is low.
 Medicine.HealthRegenCommonModifier = 0.08;                  // [type: float; default: 0.1] Modifier responsible for the intensity of common health regeneration.
@@ -112,15 +112,15 @@ Medicine.SleepingAwakeOnFull = true;                        // [type: bool; defa
 Medicine.SleepingBlockOnFull = true;                        // [type: bool; default: true] The parameter determines whether the ability to sleep will be blocked when sleeping indicator is full. Default is true.
 Medicine.SleepingBlockWithWounds = true;                    // [type: bool; default: true] The parameter determines whether the ability to sleep will be blocked when player have heavy wounds or sickness on critical stage. It is not recommended to disable this setting, as it can lead to an abuzz when the players health will not decrease at critical stages of sickneses during sleep.
 Medicine.SleepingDecPerSecCommon = 1;                       // [type: float; default: 1] The number of sleep units that a player loses per 1 second of wakefulness.
-Medicine.SleepingIncCommon = 5;                             // [type: float; default: 10] The number of sleep units that a player receives per 1 second when sleeping in the common place.
-Medicine.SleepingIncComfort = 20;                           // [type: float; default: 25] The number of sleep units that a player receives per 1 second when sleeping in the comfort place.
-Medicine.SleepingIncUnconscin = 3;                        // [type: float; default: 2.5] The number of sleep units that a player receives per 1 second when fall in unconscin.
+Medicine.SleepingIncCommon = 9;                             // [type: float; default: 10] The number of sleep units that a player receives per 1 second when sleeping in the common place.
+Medicine.SleepingIncComfort = 24;                           // [type: float; default: 25] The number of sleep units that a player receives per 1 second when sleeping in the comfort place.
+Medicine.SleepingIncUnconscin = 4;                        // [type: float; default: 2.5] The number of sleep units that a player receives per 1 second when fall in unconscin.
 Medicine.SleepingHealthInc = 0.20;                           // [type: float; default: 0.25] The number of health units that a player receives per 1 second when sleeping in the comfort place.
-Medicine.SleepingHealthDec = 0.25;                          // [type: float; default: 0.5] The number of health units that a player looses per 1 second when sleeping state is critical.
-Medicine.SleepingBloodInc = 2;                              // [type: float; default: 1] The number of blood units that a player receives per 1 second when sleeping in the comfort place.
+Medicine.SleepingHealthDec = 0.3;                          // [type: float; default: 0.5] The number of health units that a player looses per 1 second when sleeping state is critical.
+Medicine.SleepingBloodInc = 1.5;                              // [type: float; default: 1] The number of blood units that a player receives per 1 second when sleeping in the comfort place.
 Medicine.SleepingBloodDec = 0;                              // [type: float; default: 0] The number of blood units that a player looses per 1 second when sleeping state is critical.
-Medicine.SleepingMindInc = 2;                               // [type: float; default: 1] The number of mind units that a player receives per 1 second when sleeping in the comfort place.
-Medicine.SleepingMindDec = 1;                               // [type: float; default: 0] The number of mind units that a player looses per 1 second when sleeping state is critical.
+Medicine.SleepingMindInc = 1.5;                               // [type: float; default: 1] The number of mind units that a player receives per 1 second when sleeping in the comfort place.
+Medicine.SleepingMindDec = 0.5;                               // [type: float; default: 0] The number of mind units that a player looses per 1 second when sleeping state is critical.
 
 // Mind (mental condition) settings
 Medicine.MindEnabled = true;                                // [type: bool; default: true] The parameter determines whether the mental system is enabled. Default is true.
@@ -138,7 +138,7 @@ Medicine.BotKillingMindDegradationSafeDist = 30;            // [type: float; def
 Medicine.PlayerKillingMindDegradationValue = 0.4;           // [type: float; default: 1] The amount of mind that a player will lose per second after a killing another player.
 Medicine.PlayerKillingMindDegradationTime = 5;              // [type: float; default: 30] Time in seconds during which the player will continue to lose his mind after a killing another player.
 Medicine.PlayerKillingMindDegradationSafeDist = 30;         // [type: float; default: 30] When killing a player, if the distance was less than this value, the players mind (mental) state will degradate.
-Medicine.PlayerSkinningMindDegradationValue = 5;            // [type: float; default: 2] The amount of mind that a player will lose per second after a skinning another player.
+Medicine.PlayerSkinningMindDegradationValue = 50;            // [type: float; default: 2] The amount of mind that a player will lose per second after a skinning another player.
 Medicine.PlayerSkinningMindDegradationTime = 30;            // [type: float; default: 30] Time in seconds during which the player will continue to lose his mind after a skinning another player.
 
 // Pain settings
@@ -162,7 +162,7 @@ Medicine.SepsisIncPerSec = 0.001;                           // [type: float; def
 Medicine.SepsisLightSymptomChance = 0.02;                   // [type: float; default: 0.01] Chance to make light (level 1) sepsis symptoh. Value from 0 to 1.
 Medicine.SepsisHeavySymptomChance = 0.04;                   // [type: float; default: 0.03] Chance to make heavy (level 2) sepsis symptoh. Value from 0 to 1.
 Medicine.SepsisCriticalSymptomChance = 0.03;                // [type: float; default: 0.02] Chance to make critical (level 3) sepsis symptoh. Value from 0 to 1.
-Medicine.SepsisCriticalDmgMultiplier = 0.5;                 // [type: float; default: 1] Damage modifier received by a player during terminal stage of sepsis.
+Medicine.SepsisCriticalDmgMultiplier = 0.6;                 // [type: float; default: 1] Damage modifier received by a player during terminal stage of sepsis.
 Medicine.SepsisDecPerSec = 0.03;                            // [type: float; default: 0.01] The number of sepsis agents the player loses when has effect from antibiotics.
 
 // Zombie virus settings
@@ -197,8 +197,8 @@ Medicine.BiohazardEnabled = true;                           // [type: bool; defa
 Medicine.BiohazardSkinIrritation = true;                    // [type: bool; default: false] Enables or disables the skin irritation when player stay in a toxic (biohazard) area.
 Medicine.BiohazardDecPerSec = 0.001;                        // [type: float; default: 0.001] The number of biohazard agents the player loses every second.
 Medicine.BiohazardAntidoteHealMultiplier = 3;               // [type: float; default: 3] A modifier that affects the strength of medicines against biohazard poisoning. Affects the lose force of poisonous biohazard agents from the body.
-Medicine.BiohazardSymptomChance = 0.1;                      // [type: float; default: 0.05] Chance to make heavy (level 2+) biohazard symptoh. Value from 0 to 1.
-Medicine.BiohazardCriticalDmgMultiplier = 0.6;              // [type: float; default: 0.35] Damage modifier received by a player during terminal stage of biohazard.
+Medicine.BiohazardSymptomChance = 0.15;                      // [type: float; default: 0.05] Chance to make heavy (level 2+) biohazard symptoh. Value from 0 to 1.
+Medicine.BiohazardCriticalDmgMultiplier = 0.65;              // [type: float; default: 0.35] Damage modifier received by a player during terminal stage of biohazard.
 Medicine.BiohazardVomitForceModifier = 3;                   // [type: float; default: 2.5] Modifier responsible for the strength of vomiting. The higher value make more draining of water adn energy the player will receive.
 Medicine.BiohazardTransferAgentsModifier = 0.05;            // [type: float; default: 0.05] A modifier responsible for converting classic chemical agents into biohazard agents of the Terje medicine system.
 
@@ -308,7 +308,7 @@ Medicine.ZombieKillingMindDegradationTime = 3;              // [type: float; def
 Medicine.ZombieKillingMindDegradationSafeDist = 10;         // [type: float; default: 10] When killing a zombie, if the distance was less than this value, the players mind (mental) state will degradate.
 
 // ImmunitySkill
-Medicine.ImmunityVitaminsExpGain = 5;                       // [type: int; default: 5] Sets the value of experience points that the player will gain when using vitamin pills every minute. This parameter is also affected by ExperienceGainModifier.
+Medicine.ImmunityVitaminsExpGain = 2;                       // [type: int; default: 5] Sets the value of experience points that the player will gain when using vitamin pills every minute. This parameter is also affected by ExperienceGainModifier.
 Medicine.ImmunityBiohazardExpGain = 50;                     // [type: int; default: 100] Sets the value of experience points that the player will gain after the biohazard disease is completely cured. This parameter is also affected by ExperienceGainModifier.
 Medicine.ImmunityContusionExpGain = 25;                     // [type: int; default: 50] Sets the value of experience points that the player will gain after the contusion disease is completely cured. This parameter is also affected by ExperienceGainModifier.
 Medicine.ImmunityHematomaExpGain = 5;                       // [type: int; default: 10] Sets the value of experience points that the player will gain after the hematoma is completely cured. This parameter is also affected by ExperienceGainModifier.
@@ -322,14 +322,14 @@ Medicine.ImmunityFixLegsExpGain = 50;                       // [type: int; defau
 
 // MedicineSkill
 Medicine.MedicineBandageExpGain = 10;                       // [type: int; default: 50] Sets the value of experience points that the player will gain after the bandaging. This parameter is also affected by ExperienceGainModifier.
-Medicine.MedicineStubSurgeryExpGain = 200;                  // [type: int; default: 500] Sets the value of experience points that the player will gain after the surgery of the stub wound. This parameter is also affected by ExperienceGainModifier.
-Medicine.MedicineBulletSurgeryExpGain = 400;                // [type: int; default: 750] Sets the value of experience points that the player will gain after the surgery of the bullet wound. This parameter is also affected by ExperienceGainModifier.
-Medicine.MedicineVisceraSurgeryExpGain = 600;               // [type: int; default: 1000] Sets the value of experience points that the player will gain after the surgery of the viscera wound. This parameter is also affected by ExperienceGainModifier.
+Medicine.MedicineStubSurgeryExpGain = 150;                  // [type: int; default: 500] Sets the value of experience points that the player will gain after the surgery of the stub wound. This parameter is also affected by ExperienceGainModifier.
+Medicine.MedicineBulletSurgeryExpGain = 250;                // [type: int; default: 750] Sets the value of experience points that the player will gain after the surgery of the bullet wound. This parameter is also affected by ExperienceGainModifier.
+Medicine.MedicineVisceraSurgeryExpGain = 400;               // [type: int; default: 1000] Sets the value of experience points that the player will gain after the surgery of the viscera wound. This parameter is also affected by ExperienceGainModifier.
 Medicine.MedicineCollectBloodExpGain = 10;                  // [type: int; default: 50] Sets the value of experience points that the player will gain after the collect blood action. This parameter is also affected by ExperienceGainModifier.
 Medicine.MedicineGiveBloodExpGain = 10;                     // [type: int; default: 50] Sets the value of experience points that the player will gain after the give blood action. This parameter is also affected by ExperienceGainModifier.
 Medicine.MedicineGiveSalineExpGain = 5;                    // [type: int; default: 25] Sets the value of experience points that the player will gain after the give saline action. This parameter is also affected by ExperienceGainModifier.
 Medicine.MedicineTestBloodExpGain = 5;                      // [type: int; default: 50] Sets the value of experience points that the player will gain after the test blood action. This parameter is also affected by ExperienceGainModifier.
-Medicine.MedicineSplintExpGain = 20;                        // [type: int; default: 100] Sets the value of experience points that the player will gain after the splint is applied. This parameter is also affected by ExperienceGainModifier.
+Medicine.MedicineSplintExpGain = 10;                        // [type: int; default: 100] Sets the value of experience points that the player will gain after the splint is applied. This parameter is also affected by ExperienceGainModifier.
 
 // TerjeScriptableAreas
 Medicine.PsionicAreasPowerMod = 1;                          // [type: float; default: 1] Power modifier for all psionic areas.
