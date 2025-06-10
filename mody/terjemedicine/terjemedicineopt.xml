@@ -32,7 +32,7 @@
 	<type name="TerjeExpressTestSepsisPack">
 		<nominal>1</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>1600</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -47,7 +47,7 @@
 	<type name="TerjeExpressTestRabiesPack">
 		<nominal>1</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>1600</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -141,7 +141,7 @@
 	<type name="TerjePlaster">
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>1600</restock>
 		<min>1</min>
 		<quantmin>10</quantmin>
 		<quantmax>80</quantmax>
@@ -230,7 +230,7 @@
 	<type name="TerjePillsAnalgin">
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>10</quantmin>
 		<quantmax>80</quantmax>
@@ -245,7 +245,7 @@
 	<type name="TerjePillsNimesulid">
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>10</quantmin>
 		<quantmax>80</quantmax>
@@ -260,7 +260,7 @@
 	<type name="TerjePillsParacetamol">
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>10</quantmin>
 		<quantmax>80</quantmax>
@@ -275,7 +275,7 @@
 	<type name="TerjePillsIbuprofen">
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>10</quantmin>
 		<quantmax>80</quantmax>
@@ -290,7 +290,7 @@
 	<type name="TerjePillsNurofen">
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>10</quantmin>
 		<quantmax>80</quantmax>
@@ -305,7 +305,7 @@
 	<type name="TerjePillsAmoxiclav">
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>10</quantmin>
 		<quantmax>80</quantmax>
@@ -320,7 +320,7 @@
 	<type name="TerjePillsPiperacylin">
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>10</quantmin>
 		<quantmax>80</quantmax>
@@ -335,7 +335,7 @@
 	<type name="TerjePillsAmibaktam">
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>10</quantmin>
 		<quantmax>80</quantmax>
@@ -350,7 +350,7 @@
 	<type name="TerjePillsPolisorb">
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>10</quantmin>
 		<quantmax>80</quantmax>
@@ -365,7 +365,7 @@
 	<type name="TerjePillsMesalazin">
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>10</quantmin>
 		<quantmax>80</quantmax>
@@ -380,7 +380,7 @@
 	<type name="TerjePillsFtalazol">
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>10</quantmin>
 		<quantmax>80</quantmax>
@@ -395,7 +395,7 @@
 	<type name="TerjePillsNoopept">
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>10</quantmin>
 		<quantmax>80</quantmax>
@@ -410,7 +410,7 @@
 	<type name="TerjePillsVikasol">
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>10</quantmin>
 		<quantmax>80</quantmax>
@@ -425,7 +425,7 @@
 	<type name="TerjePillsIrovit">
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>10</quantmin>
 		<quantmax>80</quantmax>
@@ -440,7 +440,7 @@
 	<type name="TerjePillsAgteminol">
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>10</quantmin>
 		<quantmax>80</quantmax>
@@ -455,7 +455,7 @@
 	<type name="TerjePillsVenlafaxine">
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>10</quantmin>
 		<quantmax>80</quantmax>
@@ -470,7 +470,7 @@
 	<type name="TerjePillsRombiopental">
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>10</quantmin>
 		<quantmax>80</quantmax>
@@ -485,9 +485,9 @@
 	
 	<!-- TERJE AMPOULS -->
 	<type name="TerjeAmpouleKetarol">
-		<nominal>2</nominal>
+		<nominal>3</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>20</quantmin>
 		<quantmax>100</quantmax>
@@ -500,9 +500,9 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeAmpouleFlemoclav">
-		<nominal>2</nominal>
+		<nominal>3</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>20</quantmin>
 		<quantmax>100</quantmax>
@@ -515,9 +515,9 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeAmpouleImipenem">
-		<nominal>2</nominal>
+		<nominal>3</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>20</quantmin>
 		<quantmax>100</quantmax>
@@ -530,9 +530,9 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeAmpouleMorphine">
-		<nominal>2</nominal>
+		<nominal>3</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>20</quantmin>
 		<quantmax>100</quantmax>
@@ -545,9 +545,9 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeAmpouleGexobarbital">
-		<nominal>2</nominal>
+		<nominal>3</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>20</quantmin>
 		<quantmax>100</quantmax>
@@ -560,9 +560,9 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeAmpouleKetamin">
-		<nominal>2</nominal>
+		<nominal>3</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>20</quantmin>
 		<quantmax>100</quantmax>
@@ -575,9 +575,9 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeAmpouleHeptral">
-		<nominal>2</nominal>
+		<nominal>3</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>20</quantmin>
 		<quantmax>100</quantmax>
@@ -590,9 +590,9 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeAmpouleMetoclopramid">
-		<nominal>2</nominal>
+		<nominal>3</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>20</quantmin>
 		<quantmax>100</quantmax>
@@ -605,9 +605,9 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeAmpouleActaparoxetine">
-		<nominal>2</nominal>
+		<nominal>3</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>20</quantmin>
 		<quantmax>100</quantmax>
@@ -620,9 +620,9 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeAmpouleAmitriptyline">
-		<nominal>2</nominal>
+		<nominal>3</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>20</quantmin>
 		<quantmax>100</quantmax>
@@ -635,9 +635,9 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeAmpouleRifampicyne">
-		<nominal>2</nominal>
+		<nominal>3</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>20</quantmin>
 		<quantmax>100</quantmax>
@@ -667,9 +667,9 @@
 	
 	<!-- TERJE INJECTORS -->
 	<type name="TerjeInjectorPromidol">
-		<nominal>2</nominal>
+		<nominal>3</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -682,9 +682,9 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeInjectorTopoizomeraza">
-		<nominal>2</nominal>
+		<nominal>3</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -697,9 +697,9 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeInjectorErytromixelin">
-		<nominal>2</nominal>
+		<nominal>3</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -712,9 +712,9 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeInjectorStomaproxidal">
-		<nominal>2</nominal>
+		<nominal>3</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -725,9 +725,9 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeInjectorRabinucoline">
-		<nominal>2</nominal>
+		<nominal>3</nominal>
 		<lifetime>28800</lifetime>
-		<restock>7200</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -740,9 +740,9 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeInjectorAmfitalicyne">
-		<nominal>2</nominal>
+		<nominal>3</nominal>
 		<lifetime>28800</lifetime>
-		<restock>18000</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -755,9 +755,9 @@
 		<usage name="Medic"/>
 	</type>
 	<type name="TerjeInjectorReanimatal">
-		<nominal>2</nominal>
+		<nominal>3</nominal>
 		<lifetime>28800</lifetime>
-		<restock>18000</restock>
+		<restock>800</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
