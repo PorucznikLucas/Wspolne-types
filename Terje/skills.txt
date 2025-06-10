@@ -28,34 +28,34 @@ Skills.StrengthItemsUseGainExp = 10;                        // [type: int; defau
 Skills.StrengthHandsPerkThreshold = 19;                     // [type: float; default: 20] Sets the maximum weight of the object that the player can take in his hands without the Sturdy Hands perk. (in kilograms)
 
 // Metabolism
-Skills.MetabolismConsumeFoodExpMod = 0.3;                     // [type: float; default: 1] Sets the modifier for gained metabolism skill experience when player is eating a food.
-Skills.MetabolismConsumeWaterExpMod = 0.3;                    // [type: float; default: 1] Sets the modifier for gained metabolism skill experience when player is drinking a water.
+Skills.MetabolismConsumeFoodExpMod = 0.2;                     // [type: float; default: 1] Sets the modifier for gained metabolism skill experience when player is eating a food.
+Skills.MetabolismConsumeWaterExpMod = 0.2;                    // [type: float; default: 1] Sets the modifier for gained metabolism skill experience when player is drinking a water.
 
 // Stealth
 Skills.StealthCatVisionPower = 1;                           // [type: float; default: 1] Sets the modifier of power for the CatVision perk.
 Skills.StealthCheckDistance = 70;                           // [type: int; default: 30] Sets the distance a player must crouch to gain stealth experience.
 Skills.StealthExpGain = 10;                                 // [type: int; default: 10] Sets the value of experience points that the player will gain by crouching. This parameter is also affected by ExperienceGainModifier.
 Skills.StealthZombiesVisibilityModifier = 1.0;              // [type: float; default: 1.5] Sets global player visibility modifier for targeting by zombies.
-Skills.StealthWolvesVisibilityModifier = 0.9;              // [type: float; default: 1] Sets global player visibility modifier for targeting by wolves.
-Skills.StealthBearsVisibilityModifier = 0.9;                // [type: float; default: 1] Sets global player visibility modifier for targeting by bears.
+Skills.StealthWolvesVisibilityModifier = 1;              // [type: float; default: 1] Sets global player visibility modifier for targeting by wolves.
+Skills.StealthBearsVisibilityModifier = 1;                // [type: float; default: 1] Sets global player visibility modifier for targeting by bears.
 Skills.StealthPlayerNoiseModifier = 1.5;                    // [type: float; default: 1.5] Sets global player modifier for noise system.
 
 // Survival
 Skills.SurvTemperatureModifier = 0.7;                       // [type: float; default: 0.5] Sets the modifier value that is multiplied by the environment temperature modifier calculated from ReducedTempModifier of the survival skill.
 Skills.SurvIgniteFireBaseChance = 0.2;                      // [type: float; default: 0.2] Sets the base chance of starting fire in additional to the StartingFire perk chance.
-Skills.SurvMakeFireSuccessGainExp = 25;                     // [type: int; default: 50] Sets the value of experience points that the player will gain for successfully making a fire. This parameter is also affected by ExperienceGainModifier.
-Skills.SurvMakeFireFailGainExp = 10;                        // [type: int; default: 10] Sets the value of experience points that the player will gain for trying to making a fire. This parameter is also affected by ExperienceGainModifier.
+Skills.SurvMakeFireSuccessGainExp = 30;                     // [type: int; default: 50] Sets the value of experience points that the player will gain for successfully making a fire. This parameter is also affected by ExperienceGainModifier.
+Skills.SurvMakeFireFailGainExp = 5;                        // [type: int; default: 10] Sets the value of experience points that the player will gain for trying to making a fire. This parameter is also affected by ExperienceGainModifier.
 Skills.SurvKillZombieGainExp = 5;                           // [type: int; default: 5] Sets the value of experience points that the player will gain when kill a zombie. This parameter is also affected by ExperienceGainModifier.
 Skills.SurvLifetimeGainExp = 100;                           // [type: int; default: 100] Sets the value of experience points that the player will gain when survived for a long time. This parameter is also affected by ExperienceGainModifier.
-Skills.SurvLifetimeOffset = 4000;                           // [type: int; default: 3600] Sets the cyclic time interval in seconds after which the player will be awarded additional experience points for the survival skill.
+Skills.SurvLifetimeOffset = 3600;                           // [type: int; default: 3600] Sets the cyclic time interval in seconds after which the player will be awarded additional experience points for the survival skill.
 Skills.SurvOverrideStartFireTime = 10;                      // [type: float; default: 15] Overrides the time for starting the fire. If the value is -1, the default value will be used instead.
 Skills.SurvCookingOnStickExpGain = 4;                       // [type: int; default: 5] Sets the value of experience points that the player will gain for successfully cooking a food on stick. This parameter is also affected by ExperienceGainModifier.
 
 // Hunting
-Skills.HuntingKillAnimalExpGainModifier = 0.1;                // [type: float; default: 1] Sets the value of the experience modifier that the player will get after killing an animal. This modifier is multiplied by the parameter terjeOnKillHuntingExp from the animals config.
-Skills.HuntingHeadshotAnimalExpGainModifier = 0.1;            // [type: float; default: 1] Sets the value of the experience modifier that the player will get after killing an animal with headshot in additional to HuntingKillAnimalExpGainModifier. This modifier is multiplied by the parameter terjeOnHeadshotHuntingExp from the animals config.
-Skills.HuntingButchAnimalExpGainModifier = 0.5;               // [type: float; default: 1] Sets the value of the experience modifier that the player will get after butchering an animal. This modifier is multiplied by the parameter terjeOnButchHuntingExp from the animals config.
-Skills.HuntingTrapAnimalExpGainModifier = 1;                // [type: float; default: 1] Sets the value of the experience modifier that the player will get after cathing an animal by the trap. This modifier is multiplied by the parameter terjeOnCatchAnimalHuntingExp from the traps config.
+Skills.HuntingKillAnimalExpGainModifier = 0.15;                // [type: float; default: 1] Sets the value of the experience modifier that the player will get after killing an animal. This modifier is multiplied by the parameter terjeOnKillHuntingExp from the animals config.
+Skills.HuntingHeadshotAnimalExpGainModifier = 0.15;            // [type: float; default: 1] Sets the value of the experience modifier that the player will get after killing an animal with headshot in additional to HuntingKillAnimalExpGainModifier. This modifier is multiplied by the parameter terjeOnHeadshotHuntingExp from the animals config.
+Skills.HuntingButchAnimalExpGainModifier = 0.3;               // [type: float; default: 1] Sets the value of the experience modifier that the player will get after butchering an animal. This modifier is multiplied by the parameter terjeOnButchHuntingExp from the animals config.
+Skills.HuntingTrapAnimalExpGainModifier = 0.3;                // [type: float; default: 1] Sets the value of the experience modifier that the player will get after cathing an animal by the trap. This modifier is multiplied by the parameter terjeOnCatchAnimalHuntingExp from the traps config.
 Skills.HuntingOverrideSkinningTime = 30;                    // [type: float; default: 60] Sets the time of skinning animal carcasses for use with the QuickSkinning perk. If the value is -1, the default value will be used instead.
 Skills.HuntingOverrideKnifeDamage = 50;                    	// [type: float; default: 100] Sets the absolute damage value for a knife when skinning animal carcasses. Affected by MasterKnife perk.
 Skills.HuntingOverrideMeatInitQuantity = 0.25;              // [type: float; default: 0.25] Sets the maximum initial random quantity for the one peace of meat that can be produced during the skinning without skills. The MeatHunter modifier will be added to this value. Value range from 0 (0%) to 1 (100%).
@@ -63,8 +63,8 @@ Skills.HuntingOverrideMeatMinQuantity = 0.15;               // [type: float; def
 Skills.HuntingOverrideBonesInitHp = 0;                      // [type: float; default: 0] Sets the minimum health for the bones that can be produced during the skinning without skills. Value range from 0 (0%) to 1 (100%).
 
 // Fishing
-Skills.FishingSuccessCatchGainExp = 25;                    // [type: int; default: 50] Sets the experience value that the player will receive if the catch is successful. This parameter is also affected by ExperienceGainModifier.
-Skills.FishingFailedCatchGainExp = 5;                      // [type: int; default: 10] Sets the experience value that the player will receive if the catch is failed. This parameter is also affected by ExperienceGainModifier.
+Skills.FishingSuccessCatchGainExp = 20;                    // [type: int; default: 50] Sets the experience value that the player will receive if the catch is successful. This parameter is also affected by ExperienceGainModifier.
+Skills.FishingFailedCatchGainExp = 4;                      // [type: int; default: 10] Sets the experience value that the player will receive if the catch is failed. This parameter is also affected by ExperienceGainModifier.
 Skills.FishingOverrideFilletMinQuantity = 0.2;              // [type: float; default: 0.2] Sets the minimum quantity for the one peace of fish fillet that can be produced during the skinning without skills. Value range from 0 (0%) to 1 (100%).
 Skills.FishingOverrideRodDamage = 4;                        // [type: float; default: 5] Sets the absolute damage value for a fishing rod after a fishing action. Affected by StraightArms perk.
 Skills.FishingOverrideHookDamage = 5;                       // [type: float; default: 5] Sets the absolute damage value for a fishing hook after a fishing action. Affected by StraightArms perk.
